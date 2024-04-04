@@ -1,32 +1,31 @@
 {
     "口口": "https://cnlv.neocities.org/",
     "友情提醒": "平安™：祝您观影愉快！",
-    "warningText": "平安爸整理维护！如有侵权，懒得删！\n \n2024年4月1日起，未备案APP限制使用！\n \n---且用且珍惜！祝大家观影愉快！---\n \n软件仅供学习交流！完全免费！勿信广告！",
+    "warningText": "平安爸整理维护！如有侵权，懒得删！\n \n2024年4月1日起，未备案APP限制使用！\n \n---已经开始了，能用多久随缘吧，且用且珍惜！---\n \n软件仅供学习交流！完全免费！勿信广告！",
     "wallpaper": "https://tuapi.eees.cc/api.php?category={fengjing,biying,dongman}&type=302",
 //    "spider": "https://jihulab.com/cnlv/tv/-/raw/main/PandaQ240301.jar;md5;2bd36e31012694d10a19fab6515d60d8",
 //    "spider": "https://jihulab.com/cnlv/tv/-/raw/main/PandaQ240318.jar;md5;5b59d2999497d6e0c1eb256bcd77f2c7",
-    "spider": "https://jihulab.com/cnlv/tv/-/raw/main/XYQ.jar;md5;5dbe95399010cd30706b01aa5624dbe0",
+    "spider": "https://pan.shangui.cc/f/60KNsp/XYQ.jar;md5;5dbe95399010cd30706b01aa5624dbe0",
     "lives": [
         {
             "name": "live",
             "type": 0,
             "playerType": 1,
-            "url": "https://atomgit.com/cnlv/jk/raw/master/live.txt",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/live.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
     ],
     "sites": [
         {
-            "key": "js豆瓣",
+            "key": "js_豆瓣荐片",
             "name": "🔥平安邀您:畅享视界！",
             "type": 3,
-            "api": "https://jihulab.com/cnlv/tv/-/raw/main/js/drpy2.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://jihulab.com/cnlv/tv/-/raw/main/js/drpy.js"
+            "api": "https://pan.shangui.cc/f/Z4LXSv/doubanjianpian1.js",
+            "ext": "https://pan.shangui.cc/f/zD1Jh0/doubanjianpian2.js"
         },
+
+
         {
             "key": "豆瓣",
             "name": "🐼预告┃🔥平安™",
@@ -1884,7 +1883,7 @@
         },
         {
             "key": "公告",
-            "name": "⏱2024-03",
+            "name": "⏱2024-04",
             "type": 3,
             "api": "",
             "searchable": 0,
