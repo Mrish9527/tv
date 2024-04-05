@@ -7,6 +7,14 @@
 //    "spider": "https://jihulab.com/cnlv/tv/-/raw/main/PandaQ240318.jar;md5;5b59d2999497d6e0c1eb256bcd77f2c7",
     "spider": "https://pan.shangui.cc/f/60KNsp/XYQ.jar;md5;5dbe95399010cd30706b01aa5624dbe0",
     "lives": [
+{
+		"name": "live",
+		"type": 0,
+		"playerType": 1,
+		"url": "https://pan.shangui.cc/f/RREzsz/live.txt",
+		"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+		"logo": "https://epg.112114.xyz/logo/{name}.png"
+	},
         {
             "name": "live",
             "type": 0,
@@ -187,16 +195,7 @@
             "api": "csp_LiteApple",
             "jar": "https://jihulab.com/cnlv/tv/-/raw/main/PandaQ240318.jar;md5;5b59d2999497d6e0c1eb256bcd77f2c7"
         },
-        {
-            "key": "苹果",
-            "name": "🍏绿果┃🔥平安™",
-            "type": 3,
-            "api": "csp_LiteApple",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711305426162/fan.txt;md5;602fb3226d777850053484cdeb2f3296"
-        },
+//        {"key": "苹果","name": "🍏绿果┃🔥平安™","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"changeable": 1,jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711305426162/fan.txt;md5;602fb3226d777850053484cdeb2f3296"},
         {
             "key": "原创",
             "name": "☀原创┃🔥平安™",
