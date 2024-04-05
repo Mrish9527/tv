@@ -8,7 +8,7 @@
     "spider": "https://pan.shangui.cc/f/60KNsp/XYQ.jar;md5;5dbe95399010cd30706b01aa5624dbe0",
     "lives": [
 {
-		"name": "live",
+		"name": "live0",
 		"type": 0,
 		"playerType": 1,
 		"url": "https://pan.shangui.cc/f/RREzsz/live.txt",
@@ -16,7 +16,7 @@
 		"logo": "https://epg.112114.xyz/logo/{name}.png"
 	},
         {
-            "name": "live",
+            "name": "live1",
             "type": 0,
             "playerType": 1,
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/live.txt",
