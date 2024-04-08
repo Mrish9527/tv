@@ -1,7 +1,7 @@
 {
     "口口": "https://cnlv.neocities.org/",
-    "友情提醒": "平安™：祝您观影愉快！",
-    "warningText": "平安爸整理维护！如有侵权，懒得删！\n \n2024年4月1日起，未备案APP限制使用！\n \n---已经开始了，能用多久随缘吧，且用且珍惜！---\n \n软件仅供学习交流！完全免费！勿信广告！",
+    "友情提醒": "平安™祝您观影愉快！",
+    "warningText": "平安爸整理维护！如侵权，懒得删！\n \n2024年4月1日起，未备案APP限制使用！\n \n---能用多久随缘吧，且用且珍惜！---\n \n软件仅供学习交流！完全免费！勿信广告！",
     "wallpaper": "https://tuapi.eees.cc/api.php?category={fengjing,biying,dongman}&type=302",
 //    "spider": "https://jihulab.com/cnlv/tv/-/raw/main/PandaQ240301.jar;md5;2bd36e31012694d10a19fab6515d60d8",
 //    "spider": "https://jihulab.com/cnlv/tv/-/raw/main/PandaQ240318.jar;md5;5b59d2999497d6e0c1eb256bcd77f2c7",
@@ -27,7 +27,7 @@
     "sites": [
         {
             "key": "js_豆瓣荐片",
-            "name": "🔥平安邀您:畅享视界！",
+            "name": "🔥平安邀您畅享视界！",
             "type": 3,
             "api": "https://pan.shangui.cc/f/Z4LXSv/doubanjianpian1.js",
             "ext": "https://pan.shangui.cc/f/zD1Jh0/doubanjianpian2.js"
@@ -472,7 +472,7 @@
         },
         {
             "key": "saohuo",
-            "name": " 👗骚火┃🔥平安™",
+            "name": "👗骚火┃🔥平安™",
             "type": 3,
             "playerType": "2",
             "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
