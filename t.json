@@ -27,7 +27,7 @@
     "sites": [
         {
             "key": "js_豆瓣荐片",
-            "name": "🔥平安邀您畅享视界——主页推荐",
+            "name": "🔥平安邀您畅享视界——主页",
             "type": 3,
             "api": "https://pan.shangui.cc/f/Z4LXSv/doubanjianpian1.js",
             "ext": "https://pan.shangui.cc/f/zD1Jh0/doubanjianpian2.js"
