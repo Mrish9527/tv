@@ -5,16 +5,9 @@
     "wallpaper": "https://tuapi.eees.cc/api.php?category={fengjing,biying,dongman}&type=302",
 //    "spider": "https://jihulab.com/cnlv/tv/-/raw/main/PandaQ240301.jar;md5;2bd36e31012694d10a19fab6515d60d8",
 //    "spider": "https://jihulab.com/cnlv/tv/-/raw/main/PandaQ240318.jar;md5;5b59d2999497d6e0c1eb256bcd77f2c7",
+//    "spider": "https://cloud.lxweb.cn/f/ePJWIa/PandaQ240416.jar;md5;9f15ade02721f30f65880bef1271be69",
     "spider": "https://pan.shangui.cc/f/60KNsp/XYQ.jar;md5;5dbe95399010cd30706b01aa5624dbe0",
     "lives": [
-        {
-            "name": "live0",
-            "type": 0,
-            "playerType": 1,
-            "url": "http://git.sxtv.top/cnlv/tv/raw/master/live.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        }
 {
 		"name": "live1",
 		"type": 0,
@@ -35,10 +28,10 @@
     "sites": [
         {
             "key": "js_豆瓣荐片",
-            "name": "🔥平安邀您畅享视界！",
+            "name": "🔥平安邀您:畅享视界！",
             "type": 3,
-            "api": "https://pan.shangui.cc/f/ozj0U7/drpy2.min.js",
-            "ext": "https://pan.shangui.cc/f/AeKbTy/drpy.js"
+            "api": "https://pan.shangui.cc/f/Z4LXSv/doubanjianpian1.js",
+            "ext": "https://pan.shangui.cc/f/zD1Jh0/doubanjianpian2.js"
         },
 
 
@@ -49,7 +42,7 @@
             "api": "csp_XBPQ",
             "playerType": 2,
             "ext": {
-                "首页": "正在热映",
+                "首页": "平安™热映预告片",
                 "图片代理": "",
                 "分类url": "https://movie.douban.com/{cateId}/;;aRC",
                 "分类": "即将上映$cinema/later#正在热映$cinema/nowplaying",
@@ -62,7 +55,8 @@
                 "播放列表": "<a&&</a>",
                 "播放标题": "alt=\"&&\"",
                 "播放链接": "https://m.douban.com+href=\"&&\""
-            }
+            },
+            "jar": "https://cloud.lxweb.cn/f/oP1whY/PandaQ240416.jar;md5;9f15ade02721f30f65880bef1271be69"
         },
         {
             "key": "热播库",
