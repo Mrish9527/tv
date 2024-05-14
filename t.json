@@ -55,7 +55,7 @@
         "播放标题": "alt=\"&&\"",
         "播放链接": "https://m.douban.com+href=\"&&\""
       },
-      "jar": "https://cloud.lxweb.cn/f/oP1whY/PandaQ240416.jar;md5;9f15ade02721f30f65880bef1271be69"
+      "jar": "https://pan.shangui.cc/f/XqoNId/PandaQ240505.jar;md5;0e58ee7721c00ae32f0e83280ef8e1b3"
     },
     {
       "key": "热播库",
@@ -127,7 +127,7 @@
         "日韩综艺",
         "欧美综艺"
       ],
-      "jar": "https://jihulab.com/cnlv/tv/-/raw/main/dj20240126.jar;md5;cf00cc8baef423e51187750ac973417d"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/Mrish9527/tv/main/dj20240126.jar;md5;cf00cc8baef423e51187750ac973417d"
     },
     {
       "key": "火狐",
@@ -155,7 +155,7 @@
         "剧情片",
         "冒险片"
       ],
-      "jar": "https://jihulab.com/cnlv/tv/-/raw/main/dj20240126.jar;md5;cf00cc8baef423e51187750ac973417d"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/Mrish9527/tv/main/dj20240126.jar;md5;cf00cc8baef423e51187750ac973417d"
     },
     {
       "key": "时常",
@@ -175,7 +175,7 @@
 		"type": 3,
 		"playerType": "2",
 		"api": "csp_Czys",
-      "jar": "https://cloud.lxweb.cn/f/oP1whY/PandaQ240416.jar;md5;9f15ade02721f30f65880bef1271be69"
+      "jar": "https://pan.shangui.cc/f/XqoNId/PandaQ240505.jar;md5;0e58ee7721c00ae32f0e83280ef8e1b3"
 	},
 	{
 		"key": "csp_Juqq",
@@ -183,7 +183,7 @@
 		"type": 3,
 		"playerType": "2",
 		"api": "csp_Juqq",
-      "jar": "https://cloud.lxweb.cn/f/oP1whY/PandaQ240416.jar;md5;9f15ade02721f30f65880bef1271be69"
+      "jar": "https://pan.shangui.cc/f/XqoNId/PandaQ240505.jar;md5;0e58ee7721c00ae32f0e83280ef8e1b3"
 	},
 
     {
@@ -228,7 +228,7 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_LiteApple",
-      "jar": "https://jihulab.com/cnlv/tv/-/raw/main/PandaQ240318.jar;md5;5b59d2999497d6e0c1eb256bcd77f2c7"
+      "jar": "https://pan.shangui.cc/f/XqoNId/PandaQ240505.jar;md5;0e58ee7721c00ae32f0e83280ef8e1b3"
     },
     {
       "key": "原创",
@@ -251,7 +251,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.baipiaoys.com:9092/",
-      "jar": "https://jihulab.com/cnlv/tv/-/raw/main/PandaQ240318.jar;md5;5b59d2999497d6e0c1eb256bcd77f2c7"
+      "jar": "https://pan.shangui.cc/f/XqoNId/PandaQ240505.jar;md5;0e58ee7721c00ae32f0e83280ef8e1b3"
     },
 	{
 		"key": "小点",
@@ -264,14 +264,180 @@
 		"changeable": 0,
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1713110368678/fan.txt;md5;875a1b334ba0264705e574e5165b6b87"
 	},
+        {
+            "key": "种子短剧",
+            "name": "🍒短剧┃🔥平安™",
+            "type": 3,
+            "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+            "ext": "http://dt.xn--yety82d.love/js/种子短剧.js",
+            "playerType": 2,
+      "jar": "https://pan.shangui.cc/f/XqoNId/PandaQ240505.jar;md5;0e58ee7721c00ae32f0e83280ef8e1b3"
+        },
+       
+
     {
-      "key": "种子短剧",
-      "name": "🍒短剧┃🔥平安™",
+      "key": "csp_Mp4Mov",
+      "name": "🧲Mp电┃🔥平安™",
       "type": 3,
-      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-      "ext": "http://dt.xn--yety82d.love/js/种子短剧.js",
-      "playerType": 2
+      "api": "csp_Mp4Mov",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
+    {
+      "key": "csp_New6v",
+      "name": "🧲新6┃🔥平安™",
+      "type": 3,
+      "api": "csp_New6v",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.xb6v.com"
+    },
+    {
+      "key": "csp_SeedHub",
+      "name": "🧲Seed┃🔥平安™",
+      "type": 3,
+      "api": "csp_SeedHub",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_KubaCL",
+      "name": "🧲酷吧┃🔥平安™",
+      "type": 3,
+      "api": "csp_KubaCL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_MeijuMi",
+      "name": "🧲美迷┃🔥平安™",
+      "type": 3,
+      "api": "csp_MeijuMi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Xunlei8",
+      "name": "🧲迅雷┃🔥平安™",
+      "type": 3,
+      "api": "csp_Xunlei8",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "360_spider",
+      "name": "🐞三60┃🔥平安™",
+      "type": 3,
+      "api": "csp_SP360",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1
+    },
+
+    {
+      "key": "csp_Czsapp",
+      "name": "🐞厂资┃🔥平安™",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.czys.top"
+    },
+    {
+      "key": "csp_Bdys",
+      "name": "🐞哔视┃🔥平安™",
+      "type": 3,
+      "api": "csp_Bdys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Ddys",
+      "name": "🐞低视┃🔥平安™",
+      "type": 3,
+      "api": "csp_Ddys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_JianPian",
+      "name": "🔨荐片┃🔥平安™",
+      "type": 3,
+      "api": "csp_JianPian",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://112.124.0.131:20000"
+    },
+    {
+      "key": "csp_Ikanbot",
+      "name": "👾Ikanb┃🔥平安™",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://v.ikanbot.com"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ {
+"key":"短视频",
+"name":"☘️短视┃🔥平安™",
+"type":3,
+"api" :"csp_XBPQ",
+"searchable":0,
+"quickSearch":0,
+"filterable":1,
+"ext":{
+"主页url":"http://www.sharenice.net",
+"直接播放": "1",
+"嗅探词":".m3u8#m3u8?#.mp4#mp4?#ixigua#.czspp#.flv#.mp3#.m4a#?item/video#is_play_url=1#play/?# qianpailive",
+"分类":"抖音&快手&微视&火山&场库&美拍&秒拍&全民&梨&好兔&开眼&美女&搞笑&社会&音乐&娱乐&影视&正能量&生活&动漫&萌系&美食&体育&游戏&明星&旅游&时尚",
+"分类值":"抖音&快手&微视&火山&唱酷&美拍&秒拍&全民&丽食品&好图&开颜&t-576O5aWz&t-5pCe56yR&t-56S+5Lya&t-6Z+z5LmQ&t-5aix5LmQ&t-5b2x6KeG&t-5q2j6IO96YeP&t-55Sf5rS7&t-5Yqo5ryr&t-6JCM57O7&t-576O6aOf&t-5 L2T6IKy&t-5ri45oiP&t-5piO5pif&t-5peF5ri4&t-5pe25bCa",
+"分类url":"http://www .sharenice.net/{cateId}?page={catePg}","二次截取":"class=\"item-box\">&&
+","储备":"","图片":"data-original=\"&&\"","标题":"标题=\"&&\"","链接":"href=\"&&\""},
+      "jar": "http://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;8B3B442DD2C646DC326FC37A402430F7"
+},
     {
       "key": "赞赞",
       "name": "👍赞赞┃🔥平安™",
@@ -633,7 +799,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;C2418EB4EC7652480D70BB7BD6A44F77"
+      "jar": "http://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;8B3B442DD2C646DC326FC37A402430F7"
     },
     {
       "key": "zy_金鹰资源",
@@ -666,7 +832,7 @@
         "台湾剧",
         "体育赛事"
       ],
-      "jar": "https://jihulab.com/cnlv/tv/-/raw/main/dj20240126.jar;md5;cf00cc8baef423e51187750ac973417d"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/Mrish9527/tv/main/dj20240126.jar;md5;cf00cc8baef423e51187750ac973417d"
     },
     {
       "key": "虎牙",
@@ -700,7 +866,7 @@
         "日本动漫",
         "欧美动漫"
       ],
-      "jar": "https://jihulab.com/cnlv/tv/-/raw/main/dj20240126.jar;md5;cf00cc8baef423e51187750ac973417d"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/Mrish9527/tv/main/dj20240126.jar;md5;cf00cc8baef423e51187750ac973417d"
     },
     {
       "key": "光速资源",
@@ -715,7 +881,7 @@
         "综艺",
         "动漫"
       ],
-      "jar": "https://jihulab.com/cnlv/tv/-/raw/main/dj20240126.jar;md5;cf00cc8baef423e51187750ac973417d"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/Mrish9527/tv/main/dj20240126.jar;md5;cf00cc8baef423e51187750ac973417d"
     },
     {
       "key": "快车资源",
@@ -730,7 +896,7 @@
         "动作片",
         "香港剧"
       ],
-      "jar": "https://jihulab.com/cnlv/tv/-/raw/main/dj20240126.jar;md5;cf00cc8baef423e51187750ac973417d"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/Mrish9527/tv/main/dj20240126.jar;md5;cf00cc8baef423e51187750ac973417d"
     },
     {
       "key": "dr_ikanbot",
@@ -741,7 +907,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/ikanbot3.js",
-      "jar": "https://jihulab.com/cnlv/tv/-/raw/main/dj20240126.jar;md5;cf00cc8baef423e51187750ac973417d"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/Mrish9527/tv/main/dj20240126.jar;md5;cf00cc8baef423e51187750ac973417d"
     },
     {
       "key": "红牛资源",
@@ -757,7 +923,7 @@
         "综艺",
         "动漫"
       ],
-      "jar": "https://jihulab.com/cnlv/tv/-/raw/main/dj20240126.jar;md5;cf00cc8baef423e51187750ac973417d"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/Mrish9527/tv/main/dj20240126.jar;md5;cf00cc8baef423e51187750ac973417d"
     },
     {
       "key": "天空资源",
@@ -773,7 +939,7 @@
         "大陆综艺",
         "动作片"
       ],
-      "jar": "https://jihulab.com/cnlv/tv/-/raw/main/dj20240126.jar;md5;cf00cc8baef423e51187750ac973417d"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/Mrish9527/tv/main/dj20240126.jar;md5;cf00cc8baef423e51187750ac973417d"
     },
     {
       "key": "熊猫",
@@ -1479,7 +1645,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://jihulab.com/cnlv/tv/-/raw/jk/%E7%9F%AD%E8%A7%86%E9%A2%91.json"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/Mrish9527/tv/main/短视频.json"
     },
     {
       "key": "csp_XYQHiker_有声小说吧",
@@ -1489,7 +1655,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/cnlv/tv/-/raw/jk/%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4%E5%90%A7.json"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/Mrish9527/tv/main/有声小说吧.json"
     },
     {
       "key": "直播",
@@ -1510,7 +1676,7 @@
       "timeout": 30,
       "playerType": 1,
       "ext": "1",
-      "jar": "https://pan.shangui.cc/f/zwLnI0/pg.jar"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/Mrish9527/tv/main/PG0506.jar"
     },
     {
       "key": "河马",
@@ -1519,7 +1685,7 @@
       "api": "csp_Hmys",
       "playerType": 1,
       "ext": "https://m.jmzp.net.cn$$$null$$$1",
-      "jar": "https://pan.shangui.cc/f/zwLnI0/pg.jar"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/Mrish9527/tv/main/PG0506.jar"
     },
     {
       "key": "天天",
@@ -1528,7 +1694,7 @@
       "api": "csp_TTian",
       "playerType": 1,
       "ext": "http://op.ysdqjs.cn$$$null$$$1",
-      "jar": "https://pan.shangui.cc/f/zwLnI0/pg.jar"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/Mrish9527/tv/main/PG0506.jar"
     },
     {
       "key": "追剧",
@@ -1537,7 +1703,7 @@
       "api": "csp_TTian",
       "playerType": 1,
       "ext": "http://app.kzjtv.com$$$null$$$1",
-      "jar": "https://pan.shangui.cc/f/zwLnI0/pg.jar"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/Mrish9527/tv/main/PG0506.jar"
     },
     {
       "key": "蝴蝶",
@@ -1547,7 +1713,7 @@
       "searchable": 0,
       "playerType": 2,
       "ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b$$$null$$$1",
-      "jar": "https://pan.shangui.cc/f/zwLnI0/pg.jar"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/Mrish9527/tv/main/PG0506.jar"
     },
     {
       "key": "tvbsk",
@@ -1556,7 +1722,7 @@
       "api": "csp_Skapp",
       "playerType": 2,
       "ext": "CWL+IfA5s3TICYJ8lk+lYcjPA/WXNYE4LRTfUSa9I+X9ibZY05syLe/O7u2miaiYRiSaKE51xQOxm38YeL27jRUyF6+GJKVQArnP7QbC+qw2okju8YACfPzD3rpQo8uckl2rQh925A6lp4VD0ELHJrUvDGTlojwKtynX78d5E88HbdSsCV5pIueNPH5+z42FBt21KGN5lnE7/qqEGpSyFzbARD4aWuhSHsun7GQU9yaXZn0F4l4o2YYaEvRtsz4z9Mo8+7aj2nZsCkFWLNpgv6kzFNohSTWVDkajg5aj6s7d8CPNIvvC+gr0zm79fuuvNQF6NfaiBOrvTwamMJa3F3w==$$$null$$$1",
-      "jar": "https://pan.shangui.cc/f/zwLnI0/pg.jar"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/Mrish9527/tv/main/PG0506.jar"
     },
     {
       "key": "七夜",
@@ -1586,27 +1752,26 @@
       "filterable": 0,
       "ext": "https://jihulab.com/cnlv/tv/-/raw/main/token.txt$$$feimao$$$123456"
     },
+
     {
-      "key": "Zhaozy",
+      "key": "csp_Zhaozy",
       "name": "🐺源搜┃🔥平安™",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$zhaoziyuan777$$$qqq111",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1713110368678/fan.txt;md5;875a1b334ba0264705e574e5165b6b87"
+      "filterable": 0,
+      "ext": "{\"username\":\"fanty\",\"password\":\"qqq111\",\"searchurl\":\"http://zhaoziyuan.pw/so?filename={wd}\"}"
     },
     {
-      "key": "YiSo",
+      "key": "csp_Yisou",
       "name": "😹易搜┃🔥平安™",
       "type": 3,
-      "api": "csp_YiSo",
+      "api": "csp_Yisou",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": "https://jihulab.com/cnlv/tv/-/raw/main/token.txt",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1713110368678/fan.txt;md5;875a1b334ba0264705e574e5165b6b87"
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
     },
     {
       "key": "PanSou",
@@ -1620,30 +1785,44 @@
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1713110368678/fan.txt;md5;875a1b334ba0264705e574e5165b6b87"
     },
     {
-      "key": "TuGou",
-      "name": "😿土狗┃🔥平安™",
+      "key": "csp_AliPS",
+      "name": "📀喵搜┃🔥平安™",
       "type": 3,
-      "api": "csp_TuGou",
+      "api": "csp_AliPS",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": "https://jihulab.com/cnlv/tv/-/raw/main/token.txt"
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
     },
     {
-      "key": "csp_search_Panda_UP云搜",
+      "key": "csp_Upyunso",
       "name": "🍒Up搜┃🔥平安™",
       "type": 3,
-      "api": "csp_UpYun",
-      "timeout": 30,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+      "api": "csp_Upyunso",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
     },
     {
-      "key": "csp_search_Panda_盘搜",
-      "name": "🚃盘搜┃🔥平安™",
+      "key": "csp_XYQHiker_影搜",
+      "name": "🚃影搜┃🔥平安™",
       "type": 3,
-      "api": "csp_PanSearch",
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh.con.sh/https://github.com/Mrish9527/tv/raw/main/影搜.json"
+    },
+    {
+      "key": "csp_XYQHikerAL_玩偶哥哥",
+      "name": "📀玩偶┃🔥平安™",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/Mrish9527/tv/main/玩偶哥哥.json"
     },
     {
       "key": "push_agent",
@@ -1926,7 +2105,7 @@
     },
     {
       "key": "公告",
-      "name": "⏱20240506",
+      "name": "⏱20240515",
       "type": 3,
       "api": "",
       "searchable": 0,
