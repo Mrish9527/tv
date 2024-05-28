@@ -1,14 +1,15 @@
 {
   "口口": "https://cnlv.neocities.org/",
   "友情提醒": "平安邀您畅享视界！",
-  "warningText": "平安爸整理维护！如侵权，懒得删！\n \n内容仅供学习交流！完全免费！勿信广告！\n \n全凭个人爱好！能用多久随缘，且用且珍惜！\n \n---以上---",
+  "warningText": "平安爸整理！如侵权，懒得删！\n \n完全免费！勿信广告！\n \n国内平台都不靠谱，国外慢但稳定啊\n \n---------且用且珍惜---------",
   "wallpaper": "https://tuapi.eees.cc/api.php?category={fengjing,biying,dongman}&type=302",
 //    "spider": "https://jihulab.com/cnlv/tv/-/raw/main/PandaQ240301.jar;md5;2bd36e31012694d10a19fab6515d60d8",
 //    "spider": "https://jihulab.com/cnlv/tv/-/raw/main/PandaQ240318.jar;md5;5b59d2999497d6e0c1eb256bcd77f2c7",
 //    "spider": "https://cloud.lxweb.cn/f/ePJWIa/PandaQ240416.jar;md5;9f15ade02721f30f65880bef1271be69",
 //    "spider": "https://pan.shangui.cc/f/60KNsp/XYQ.jar;md5;5dbe95399010cd30706b01aa5624dbe0",
-  "spider": "https://pan.shangui.cc/f/PYwDIK/XYQ20240506.jar;md5;81544697bc790013fc5bb1d2939bf0b6",
-//  "spider": "https://pan.shangui.cc/f/QMkJFm/PandaQ240522.jar;md5;85e832f30273e71868b241a45f4c7082",
+//  "spider": "https://pan.shangui.cc/f/PYwDIK/XYQ20240506.jar;md5;81544697bc790013fc5bb1d2939bf0b6",
+  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/Mrish9527/jk/main/XYQ20240506.jar;md5;81544697bc790013fc5bb1d2939bf0b6",
+//  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/Mrish9527/jk/main/PandaQ240522.jar;md5;85e832f30273e71868b241a45f4c7082",
   "lives": [
     {
       "name": "live1",
@@ -32,8 +33,8 @@
       "key": "js_豆瓣荐片",
       "name": "🔥平安邀您:畅享视界！",
       "type": 3,
-      "api": "https://pan.shangui.cc/f/Z4LXSv/doubanjianpian1.js",
-      "ext": "https://pan.shangui.cc/f/zD1Jh0/doubanjianpian2.js"
+      "api": "https://gh.con.sh/https://raw.githubusercontent.com/Mrish9527/jk/main/drpy1.js",
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/Mrish9527/jk/main/drpy2.js"
     },
     {
       "key": "豆瓣",
@@ -56,7 +57,7 @@
         "播放标题": "alt=\"&&\"",
         "播放链接": "https://m.douban.com+href=\"&&\""
       },
-      "jar": "https://pan.shangui.cc/f/QMkJFm/PandaQ240522.jar;md5;85e832f30273e71868b241a45f4c7082"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/Mrish9527/jk/main/PandaQ240522.jar;md5;85e832f30273e71868b241a45f4c7082"
     },
     {
       "key": "热播库",
@@ -163,21 +164,21 @@
       "name": "🕺超清┃🔥平安™",
       "type": 3,
       "api": "csp_qiao3",
-      "jar": "https://pan.shangui.cc/f/XoxmHd/fix24225.jar",
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/Mrish9527/jk/main/fix24225.jar",
       "searchable": 1,
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 0,
       "ext": "https://sc1080.top|e59d44b2eef03ad9|e59d44b2eef03ad9"
     },
-//{"key": "csp_Czys","name": "🍊橙汁┃🔥平安™","type": 3,"playerType": "2","api": "csp_Czys","jar": "https://pan.shangui.cc/f/QMkJFm/PandaQ240522.jar;md5;85e832f30273e71868b241a45f4c7082"},
+//{"key": "csp_Czys","name": "🍊橙汁┃🔥平安™","type": 3,"playerType": "2","api": "csp_Czys","jar": "https://gh.con.sh/https://raw.githubusercontent.com/Mrish9527/jk/main/PandaQ240522.jar;md5;85e832f30273e71868b241a45f4c7082"},
 	{
 		"key": "csp_Juqq",
 		"name": "💃高清┃🔥平安™",
 		"type": 3,
 		"playerType": "2",
 		"api": "csp_Juqq",
-      "jar": "https://pan.shangui.cc/f/QMkJFm/PandaQ240522.jar;md5;85e832f30273e71868b241a45f4c7082"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/Mrish9527/jk/main/PandaQ240522.jar;md5;85e832f30273e71868b241a45f4c7082"
 	},
 
 //  {"key": "77","name": "🤾流畅┃🔥平安™","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716299041896/fan.txt;md5;70471410f8e5a1bf20eb64b6b402e5c2"},
@@ -218,7 +219,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://pan.shangui.cc/f/QMkJFm/PandaQ240522.jar;md5;85e832f30273e71868b241a45f4c7082"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/Mrish9527/jk/main/PandaQ240522.jar;md5;85e832f30273e71868b241a45f4c7082"
     },
 
     {
@@ -231,7 +232,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.baipiaoys.com:9092/",
-      "jar": "https://pan.shangui.cc/f/QMkJFm/PandaQ240522.jar;md5;85e832f30273e71868b241a45f4c7082"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/Mrish9527/jk/main/PandaQ240522.jar;md5;85e832f30273e71868b241a45f4c7082"
     },
 	{
 		"key": "小点",
@@ -251,7 +252,7 @@
             "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
             "ext": "http://dt.xn--yety82d.love/js/种子短剧.js",
             "playerType": 2,
-      "jar": "https://pan.shangui.cc/f/QMkJFm/PandaQ240522.jar;md5;85e832f30273e71868b241a45f4c7082"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/Mrish9527/jk/main/PandaQ240522.jar;md5;85e832f30273e71868b241a45f4c7082"
         },
        
 
@@ -408,7 +409,7 @@
 "分类值":"抖音&快手&微视&火山&唱酷&美拍&秒拍&全民&丽食品&好图&开颜&t-576O5aWz&t-5pCe56yR&t-56S+5Lya&t-6Z+z5LmQ&t-5aix5LmQ&t-5b2x6KeG&t-5q2j6IO96YeP&t-55Sf5rS7&t-5Yqo5ryr&t-6JCM57O7&t-576O6aOf&t-5 L2T6IKy&t-5ri45oiP&t-5piO5pif&t-5peF5ri4&t-5pe25bCa",
 "分类url":"http://www .sharenice.net/{cateId}?page={catePg}","二次截取":"class=\"item-box\">&&
 ","储备":"","图片":"data-original=\"&&\"","标题":"标题=\"&&\"","链接":"href=\"&&\""},
-      "jar": "https://pan.shangui.cc/f/2XM8sx/Yoursmile.jar;md5;7948386C2C0C50DF45F25D7B4DE7B328"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/Mrish9527/jk/main/Yoursmile.jar;md5;7948386C2C0C50DF45F25D7B4DE7B328"
 },
     {
       "key": "赞赞",
@@ -623,7 +624,7 @@
       "key": "js_nangua",
       "name": "🥒瓜瓜┃🔥平安™",
       "type": 3,
-      "api": "https://jihulab.com/cnlv/tv/-/raw/main/js/drpy2.js",
+      "api": "https://gh.con.sh/https://raw.githubusercontent.com/Mrish9527/jk/main/drpy1.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -662,7 +663,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://pan.shangui.cc/f/2XM8sx/Yoursmile.jar;md5;7948386C2C0C50DF45F25D7B4DE7B328",
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/Mrish9527/jk/main/Yoursmile.jar;md5;7948386C2C0C50DF45F25D7B4DE7B328",
       "ext": {
         "嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
         "分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0",
@@ -750,7 +751,7 @@
       "key": "蛋蛋",
       "name": "🥚蛋蛋┃🔥平安™",
       "type": 3,
-      "jar": "https://pan.shangui.cc/f/2XM8sx/Yoursmile.jar;md5;7948386C2C0C50DF45F25D7B4DE7B328",
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/Mrish9527/jk/main/Yoursmile.jar;md5;7948386C2C0C50DF45F25D7B4DE7B328",
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -766,10 +767,6 @@
         "搜索数组": "<li class=\"active clearfix&&</li"
       }
     },
-
-
-
-
     {
       "key": "孜孜",
       "name": "🥊孜孜┃🔥平安™",
@@ -811,7 +808,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://pan.shangui.cc/f/2XM8sx/Yoursmile.jar;md5;7948386C2C0C50DF45F25D7B4DE7B328"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/Mrish9527/jk/main/Yoursmile.jar;md5;7948386C2C0C50DF45F25D7B4DE7B328"
     },
     {
       "key": "zy_金鹰资源",
@@ -1439,7 +1436,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-"jar": "https://pan.shangui.cc/f/QMkJFm/PandaQ240522.jar;md5;85e832f30273e71868b241a45f4c7082"
+"jar": "https://gh.con.sh/https://raw.githubusercontent.com/Mrish9527/jk/main/PandaQ240522.jar;md5;85e832f30273e71868b241a45f4c7082"
     },
     {
       "key": "胖虎",
@@ -1451,7 +1448,7 @@
       "filterable": 1,
       "playerType": 1,
       "ext": "https://physvod.com",
-"jar": "https://pan.shangui.cc/f/QMkJFm/PandaQ240522.jar;md5;85e832f30273e71868b241a45f4c7082"
+"jar": "https://gh.con.sh/https://raw.githubusercontent.com/Mrish9527/jk/main/PandaQ240522.jar;md5;85e832f30273e71868b241a45f4c7082"
     },
     {
       "key": "csp_Nkdy",
@@ -1459,7 +1456,7 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_Nkdy",
-"jar": "https://pan.shangui.cc/f/QMkJFm/PandaQ240522.jar;md5;85e832f30273e71868b241a45f4c7082"
+"jar": "https://gh.con.sh/https://raw.githubusercontent.com/Mrish9527/jk/main/PandaQ240522.jar;md5;85e832f30273e71868b241a45f4c7082"
     },
 
 
@@ -1550,7 +1547,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://pan.shangui.cc/f/edqLSQ/奇优.json",
-      "jar": "https://pan.shangui.cc/f/2XM8sx/Yoursmile.jar;md5;7948386C2C0C50DF45F25D7B4DE7B328"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/Mrish9527/jk/main/Yoursmile.jar;md5;7948386C2C0C50DF45F25D7B4DE7B328"
     },
     {
       "key": "csp_91",
@@ -1580,7 +1577,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://pan.shangui.cc/f/2XM8sx/Yoursmile.jar;md5;7948386C2C0C50DF45F25D7B4DE7B328",
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/Mrish9527/jk/main/Yoursmile.jar;md5;7948386C2C0C50DF45F25D7B4DE7B328",
       "ext": {
         "分类url": "https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html;;ar1",
         "分类": "电影&剧集&动漫&综艺&短剧&少儿",
@@ -2059,26 +2056,6 @@
       "ext": "http://dt.xn--yety82d.love/js/310直播.js"
     },
     {
-      "key": "csp_XPath_企鹅体育",
-      "name": "🐧鹅体┃🔥平安™",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "http://w.g9.pub:66/f/3yYs2/%E4%BC%81%E9%B9%85%E7%9B%B4%E6%92%AD.json"
-    },
-    {
-      "key": "csp_XBPQ_酷奇",
-      "name": "🎤酷奇┃🔥平安™",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "http://w.g9.pub:66/f/4zYil/%E9%85%B7%E5%A5%87MV.json"
-    },
-    {
       "key": "js虎牙",
       "name": "🐅虎牙┃🔥平安™",
       "type": 3,
@@ -2234,7 +2211,7 @@
     },
     {
       "key": "公告",
-      "name": "⏱20240520",
+      "name": "⏱20240528",
       "type": 3,
       "api": "",
       "searchable": 0,
