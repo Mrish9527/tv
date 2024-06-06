@@ -1,7 +1,7 @@
 {
   "口口": "https://cnlv.neocities.org/",
   "友情提醒": "平安邀您畅享视界！",
-  "warningText": "平安爸整理！如侵权，懒得删！\n \n网络套路深，谨防割韭菜\n \n国内平台都不靠谱，国外慢但稳定啊\n \n---------且用且珍惜---------",
+  "warningText": "平安爸整理！如侵权，懒得删！\n \n网络套路深，谨防被割韭菜\n \n国内ISP都不靠谱，国外慢但稳定\n \n---------且用且珍惜---------",
   "wallpaper": "https://tuapi.eees.cc/api.php?category={fengjing,biying,dongman}&type=302",
 //    "spider": "https://jihulab.com/cnlv/tv/-/raw/main/PandaQ240301.jar;md5;2bd36e31012694d10a19fab6515d60d8",
 //    "spider": "https://jihulab.com/cnlv/tv/-/raw/main/PandaQ240318.jar;md5;5b59d2999497d6e0c1eb256bcd77f2c7",
@@ -2229,7 +2229,7 @@
     },
     {
       "key": "公告",
-      "name": "⏱20240603",
+      "name": "⏱20240606",
       "type": 3,
       "api": "",
       "searchable": 0,
