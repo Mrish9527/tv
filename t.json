@@ -903,7 +903,7 @@
 			"key": "dr_ikanbot",
 			"name": "🌺机器┃🔥平安™",
 			"type": 3,
-			"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js",
+			"api": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/drpy1.js",
 			"searchable": 2,
 			"quickSearch": 1,
 			"filterable": 0,
