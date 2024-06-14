@@ -3,13 +3,13 @@
   "友情提醒": "平安邀您畅享视界！",
   "warningText": "平安爸整理！如侵权，懒得删！\n \n网络套路深，谨防被割韭菜\n \n国内ISP都不靠谱，国外慢但稳定\n \n---------且用且珍惜---------",
   "wallpaper": "https://tuapi.eees.cc/api.php?category={fengjing,biying,dongman,meinv}&type=302",
-       "spider": "https://notabug.org/cnlv/jk/raw/master/XYQ20240607.jar;md5;07f7e56adbda0c328398d7d663ff75a5",
+//     "spider": "https://notabug.org/cnlv/jk/raw/master/XYQ20240607.jar;md5;07f7e56adbda0c328398d7d663ff75a5",
 //    "spider": "https://jihulab.com/cnlv/tv/-/raw/main/PandaQ240318.jar;md5;5b59d2999497d6e0c1eb256bcd77f2c7",
 //    "spider": "https://cloud.lxweb.cn/f/ePJWIa/PandaQ240416.jar;md5;9f15ade02721f30f65880bef1271be69",
 //    "spider": "https://pan.shangui.cc/f/60KNsp/XYQ.jar;md5;5dbe95399010cd30706b01aa5624dbe0",
 //    "spider": "https://pan.shangui.cc/f/PYwDIK/XYQ20240506.jar;md5;81544697bc790013fc5bb1d2939bf0b6",
 //    "spider": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/XYQ20240506.jar;md5;81544697bc790013fc5bb1d2939bf0b6",
-//    "spider": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/PandaQ240522.jar;md5;85e832f30273e71868b241a45f4c7082",
+    "spider": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/XYQ20240607.jar;md5;07f7e56adbda0c328398d7d663ff75a5",
 //    "spider": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f",
 
 	"lives": [{
