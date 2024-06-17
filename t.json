@@ -59,12 +59,20 @@
 			},
 			"jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
 		},
+                                {
+                                "key":"畅梦",
+                                "name":"🦖口口┃🔥平安™",
+                                "type":3,
+                                "api":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main//lib/drpy2.min.js",
+                                "ext":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main//y/changmeng.js",
+		"jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main//jar/0606.jar;md5;dd42498b23f9c619b272804ff8f26529"
+                                }, 
 		{
 			"key": "热播库",
 			"name": "🐼平安┃🔥平安™",
 			"type": 3,
 			"changeable": 1,
-			"jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f",
 			"api": "csp_XBPQ",
 			"playerType": "1",
 			"ext": {
@@ -255,17 +263,7 @@
 			"ext": "https://www.baipiaoys.com:9092/",
 			"jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
 		},
-		{
-			"key": "小点",
-			"name": "💥小点┃🔥平安™",
-			"type": 3,
-			"api": "csp_Xdys",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 0,
-			"jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
-		},
+//{"key": "小点","name": "💥小点┃🔥平安™","type": 3,"api": "csp_Xdys","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"},
 		{
 			"key": "种子短剧",
 			"name": "🍒短剧┃🔥平安™",
@@ -419,7 +417,7 @@
 			"key": "赞赞",
 			"name": "👍赞赞┃🔥平安™",
 			"type": 3,
-			"jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d",
 			"api": "csp_AppYsV2",
 			"ext": "http://111.230.51.151:2323/api.php/app/",
 			"searchable": 1,
@@ -604,7 +602,7 @@
 				"WCBA",
 				"LPL"
 			],
-			"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716818486908/wex.txt;md5;62245d758e577f08c7bed7b7b295db35"
+			"jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
 		},
 		{
 			"key": "暴风",
@@ -739,26 +737,10 @@
 				"分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
 			}
 		},
-		{
-			"key": "蛋蛋",
-			"name": "🥚蛋蛋┃🔥平安™",
-			"type": 3,
-			"jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/Yoursmile.jar;md5;7948386C2C0C50DF45F25D7B4DE7B328",
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": {
-				"嗅探词": "v3.toutiaovod.com#v3-dy-o.zjcdn#.m3u8#/tos/#.mp4",
-				"请求头": "手机#Referer$https://www.dandanju.cc/",
-				"分类url": "https://www.dandanju.cc/show/{cateId}--------{catePg}---2023.html",
-				"分类": "电影$1#剧集$2#动漫$4#综艺$4",
-				"数组": " <li class=\"col-md-6 col-sm-4 col-xs-3&&</li",
-				"搜索模式": "1",
-				"搜索url": "https://www.dandanju.cc/search/{wd}----------1---.html",
-				"搜索数组": "<li class=\"active clearfix&&</li"
-			}
-		},
+{"key": "蛋蛋","name": "🥚蛋蛋┃🔥平安™","type": 3,"jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/Yoursmile.jar;md5;7948386C2C0C50DF45F25D7B4DE7B328","api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"嗅探词": "v3.toutiaovod.com#v3-dy-o.zjcdn#.m3u8#/tos/#.mp4","请求头": "手机#Referer$https://www.dandanju.cc/","分类url": "https://www.dandanju.cc/show/{cateId}--------{catePg}---2023.html","分类": "电影$1#剧集$2#动漫$4#综艺$4","数组": " <li class=\"col-md-6 col-sm-4 col-xs-3&&</li","搜索模式": "1","搜索url": "https://www.dandanju.cc/search/{wd}----------1---.html","搜索数组": "<li class=\"active clearfix&&</li"}},
+
+//    {"key": "蛋蛋","name": "🥚蛋蛋┃🔥平安™","type": 3,"api": "csp_Cddys","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"},
+
 		{
 			"key": "孜孜",
 			"name": "🥊孜孜┃🔥平安™",
@@ -792,16 +774,7 @@
 				"分类": "电影$1#电视剧$2#港台剧$14#综艺$3#动漫$4#纪录片$22"
 			}
 		},
-		{
-			"key": "csp_YQKan",
-			"name": "🎉一起┃🔥平安™",
-			"type": 3,
-			"api": "csp_YQKan",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/Yoursmile.jar;md5;7948386C2C0C50DF45F25D7B4DE7B328"
-		},
+{"key": "csp_YQKan","name": "🎉一起┃🔥平安™","type": 3,"api": "csp_YQKan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/Yoursmile.jar;md5;7948386C2C0C50DF45F25D7B4DE7B328"},
 		{
 			"key": "zy_金鹰资源",
 			"name": "🔰金鹰┃🔥平安™",
@@ -877,10 +850,24 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"categories": [
-				"大陆剧",
-				"港澳剧",
-				"综艺",
-				"动漫"
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "剧情片",
+        "恐怖片",
+        "战争片",
+        "动漫电影",
+        "大陆剧",
+        "欧美剧",
+        "港澳剧",
+        "韩剧",
+        "日剧",
+        "台湾剧",
+        "泰剧",
+        "综艺",
+        "动漫",
+        "记录片"
 			],
 			"jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/dj20240126.jar;md5;cf00cc8baef423e51187750ac973417d"
 		},
@@ -1005,15 +992,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		{
-			"key": "csp_Nmys",
-			"name": "🌾农民┃🔥平安™",
-			"type": 3,
-			"api": "csp_Nmys",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
+//{"key": "csp_Nmys","name": "🌾农民┃🔥平安™","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1},
 		{
 			"key": "csp_XYQHiker_农民影视",
 			"name": "🧑🏻‍农民┃🔥平安™",
@@ -1022,7 +1001,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://cloud.lxweb.cn/f/AEy2ta/nmys0607.json"
+			"ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/nmys0607.json"
 		},
 		{
 			"key": "糯米",
@@ -1436,43 +1415,7 @@
 			"api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
 			"ext": "http://dt.xn--yety82d.love/js/TVB云播.js"
 		},
-		{
-			"key": "云播",
-			"name": "💢云播┃🔥平安™",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 1,
-			"ext": {
-				"影片类型": "分类：&&主演",
-				"导演": "导演：</span>&&</p>",
-				"主演": "主演：</span>&&</p>",
-				"简介": "class=\"sketch content\">&&</span>",
-				"数组": "myui-vodlist__thumb&&</a>",
-				"标题": "title=\"&&\"",
-				"副标题": "pic-tag pic-tag-top\">&&</span>",
-				"图片": "data-original=\"&&\"",
-				"链接": "href=\"&&\"",
-				"搜索模式": "1",
-				"搜索url": "http://www.hktvyun.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=500",
-				"搜索二次截取": "\"list\":[&&]",
-				"搜索数组": "{&&}",
-				"搜索标题": "\"name\":\"&&\"",
-				"搜索图片": "\"pic\":\"&&\"",
-				"搜索链接": "http://www.hktvyun.com/vod/detail/id/+\"id\":&&,+html",
-				"嗅探词": ".m3u8#mp4",
-				"线路数组": "</a><h3&&/h3>",
-				"线路标题": "title\">&&<",
-				"播放数组": "<ul class=\"myui-content__list scrollbar&&</ul>",
-				"播放标题": ">&&<",
-				"播放列表": "<a&&/a>",
-				"分类url": "http://www.hktvyun.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;a",
-				"分类": "电影$1#电视剧$2#综艺$3#动漫$4"
-			},
-			"jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/Yoursmile.jar;md5;7948386C2C0C50DF45F25D7B4DE7B328"
-		},
+{"key": "云播","name": "💢云播┃🔥平安™","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1,"ext": {"影片类型": "分类：&&主演","导演": "导演：</span>&&</p>","主演": "主演：</span>&&</p>","简介": "class=\"sketch content\">&&</span>","数组": "myui-vodlist__thumb&&</a>","标题": "title=\"&&\"","副标题": "pic-tag pic-tag-top\">&&</span>","图片": "data-original=\"&&\"","链接": "href=\"&&\"","搜索模式": "1","搜索url": "http://www.hktvyun.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=500","搜索二次截取": "\"list\":[&&]","搜索数组": "{&&}","搜索标题": "\"name\":\"&&\"","搜索图片": "\"pic\":\"&&\"","搜索链接": "http://www.hktvyun.com/vod/detail/id/+\"id\":&&,+html","嗅探词": ".m3u8#mp4","线路数组": "</a><h3&&/h3>","线路标题": "title\">&&<","播放数组": "<ul class=\"myui-content__list scrollbar&&</ul>","播放标题": ">&&<","播放列表": "<a&&/a>","分类url": "http://www.hktvyun.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;a","分类": "电影$1#电视剧$2#综艺$3#动漫$4"},"jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/Yoursmile.jar;md5;7948386C2C0C50DF45F25D7B4DE7B328"},
 		{
 			"key": "csp_Duopan",
 			"name": "🖍︎蜡笔┃🔥平安™",
@@ -1516,6 +1459,14 @@
 			"ext": "https://physvod.com",
 			"jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
 		},
+    {
+      "key": "csp_FengGo",
+      "name": "🐕疯狗┃🔥平安™",
+      "type": 3,
+      "api": "csp_FengGo",
+      "playerType": 2,
+			"jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
+    },
 		{
 			"key": "csp_Nkdy",
 			"name": "🏔耐看┃🔥平安™",
@@ -1604,48 +1555,13 @@
 			"api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
 			"ext": "http://dt.xn--yety82d.love/js/007.js"
 		},
-		{
-			"key": "奇优",
-			"name": "️💢奇优┃🔥平安™",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/奇优.json",
-			"jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/Yoursmile.jar;md5;7948386C2C0C50DF45F25D7B4DE7B328"
-		},
-		{
-			"key": "FreeOK",
-			"name": "️👌Fre┃🔥平安™",
-			"type": 3,
-			"api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-			"ext": "http://dt.xn--yety82d.love/js/FreeOK.js",
-			"jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
-		},
-		{
-			"key": "Freeok",
-			"name": "💢Fre┃🔥平安™",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"playerType": "2",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/Yoursmile.jar;md5;7948386C2C0C50DF45F25D7B4DE7B328",
-			"ext": {
-				"分类url": "https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html;;ar1",
-				"分类": "电影&剧集&动漫&综艺&短剧&少儿",
-				"分类值": "1&2&3&4&12&5",
-				"副标题": "<div class=\"module-item-note\">&&</div>",
-				"嗅探词": "m3u8#.m3u8#.mp4#freeok.mp4#/obj/",
-				"线路数组": "data-dropdown-value=&&</div>[不包含:夸克]",
-				"导演": "导演：&&</div>",
-				"主演": "主演：&&</div>",
-				"简介": "<p>&&</p>"
-			}
-		},
-		{
+{"key": "奇优","name": "️💢奇优┃🔥平安™","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/奇优.json","jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/Yoursmile.jar;md5;7948386C2C0C50DF45F25D7B4DE7B328"},
+
+{"key": "Freeok","name": "💢Fre┃🔥平安™","type": 3,"api": "csp_XBPQ","playerType": "2","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/Yoursmile.jar;md5;7948386C2C0C50DF45F25D7B4DE7B328","ext": {"分类url": "https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html;;ar1","分类": "电影&剧集&动漫&综艺&短剧&少儿","分类值": "1&2&3&4&12&5","副标题": "<div class=\"module-item-note\">&&</div>","嗅探词": "m3u8#.m3u8#.mp4#freeok.mp4#/obj/","线路数组": "data-dropdown-value=&&</div>[不包含:夸克]","导演": "导演：&&</div>","主演": "主演：&&</div>","简介": "<p>&&</p>"}},
+
+
+
+                               {
 			"key": "csp_XBPQ秋霞影视",
 			"name": "️🍂秋霞┃🔥平安™",
 			"type": 3,
@@ -2269,7 +2185,7 @@
 		},
 		{
 			"key": "公告",
-			"name": "⏱20240606",
+			"name": "⏱20240618",
 			"type": 3,
 			"api": "",
 			"searchable": 0,
