@@ -60,7 +60,7 @@
             "播放标题": "alt=\"&&\"",
             "播放链接": "https://m.douban.com+href=\"&&\""
         },
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
+        "jar": "./PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
     },
 
     //{"key":"畅梦","name":"🦖口口┃🔥平安™","type":3,"api":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main//lib/drpy2.min.js","ext":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main//y/changmeng.js","jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main//jar/0606.jar;md5;dd42498b23f9c619b272804ff8f26529"}, 
@@ -76,7 +76,7 @@
         "name": "🐼平安┃🔥平安™",
         "type": 3,
         "changeable": 1,
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f",
+        "jar": "./PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f",
         "api": "csp_XBPQ",
         "playerType": "1",
         "ext": {
@@ -112,7 +112,7 @@
         "quickSearch": 1,
         "filterable": 1,
         "categories": ["动作片", "爱情片", "喜剧片", "科幻片", "恐怖片", "剧情片", "战争片", "记录片", "灾难片", "悬疑片", "犯罪片", "奇幻片", "动画片", "中国动漫", "日本动漫", "欧美动漫", "内地剧", "欧美剧", "香港剧", "台湾剧", "韩剧", "日剧", "马泰剧", "体育赛事", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺"],
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/dj20240126.jar;md5;cf00cc8baef423e51187750ac973417d"
+        "jar": "./dj20240126.jar;md5;cf00cc8baef423e51187750ac973417d"
     },
     {
         "key": "火狐",
@@ -123,7 +123,7 @@
         "quickSearch": 0,
         "filterable": 1,
         "categories": ["内地剧", "韩剧", "香港剧", "台湾剧", "欧美剧", "日剧", "马泰剧", "动作片", "科幻片", "战争片", "喜剧片", "爱情片", "恐怖片", "犯罪片", "剧情片", "冒险片"],
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/dj20240126.jar;md5;cf00cc8baef423e51187750ac973417d"
+        "jar": "./dj20240126.jar;md5;cf00cc8baef423e51187750ac973417d"
     },
     {
         "key": "时常",
@@ -143,7 +143,7 @@
         "type": 3,
         "playerType": "2",
         "api": "csp_Juqq",
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
+        "jar": "./PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
     },
     {
         "key": "360_spider",
@@ -162,7 +162,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "changeable": 0,
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d",
+        "jar": "./fty0530.jar;md5;e5331c586bf5835734be13338cecf00d",
         "ext": {
             "aliToken": "tvfan/token.txt",
             "quarkCookie": "tvfan/cookie.txt",
@@ -391,7 +391,7 @@
         "searchable": 1,
         "changeable": 1,
         "categories": ["电影", "连续剧", "综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "香港剧", "韩国剧", "欧美剧", "台湾剧", "日本剧", "海外剧", "泰国剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "国产动漫", "欧美动漫", "日韩动漫", "爽文短剧", "体育", "足球", "NBA", "CBA", "德甲", "意甲", "英超", "西甲", "法甲", "WCBA", "LPL"],
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
+        "jar": "./fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
     },
     {
         "key": "暴风",
