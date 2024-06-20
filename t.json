@@ -8,17 +8,17 @@
     //    "spider": "https://cloud.lxweb.cn/f/ePJWIa/PandaQ240416.jar;md5;9f15ade02721f30f65880bef1271be69",
     //    "spider": "https://pan.shangui.cc/f/60KNsp/XYQ.jar;md5;5dbe95399010cd30706b01aa5624dbe0",
     //    "spider": "https://pan.shangui.cc/f/PYwDIK/XYQ20240506.jar;md5;81544697bc790013fc5bb1d2939bf0b6",
-    //    "spider": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/XYQ20240506.jar;md5;81544697bc790013fc5bb1d2939bf0b6",
-    //    "spider": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/XYQ20240607.jar;md5;07f7e56adbda0c328398d7d663ff75a5",
-        "spider": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/XYQ0618.jar;md5;07f7e56adbda0c328398d7d663ff75a5",
-    //    "spider": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f",
+    //    "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/jk/main/XYQ20240506.jar;md5;81544697bc790013fc5bb1d2939bf0b6",
+    //    "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/XYQ20240607.jar;md5;07f7e56adbda0c328398d7d663ff75a5",
+        "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/XYQ0618.jar;md5;07f7e56adbda0c328398d7d663ff75a5",
+    //    "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f",
     
     "lives": [
     {
         "name": "live1",
         "type": 0,
         "playerType": 1,
-        "url": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/live.txt",
+        "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/live.txt",
         "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -36,8 +36,8 @@
         "key": "js_豆瓣荐片",
         "name": "🔥平安邀您:畅享视界！",
         "type": 3,
-        "api": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/drpy1.js",
-        "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/drpy2.js"
+        "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/jk/main/drpy1.js",
+        "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/jk/main/drpy2.js"
     },
     {
         "key": "豆瓣",
@@ -60,23 +60,25 @@
             "播放标题": "alt=\"&&\"",
             "播放链接": "https://m.douban.com+href=\"&&\""
         },
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
     },
 
-    //{"key":"畅梦","name":"🦖口口┃🔥平安™","type":3,"api":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main//lib/drpy2.min.js","ext":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main//y/changmeng.js","jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main//jar/0606.jar;md5;dd42498b23f9c619b272804ff8f26529"}, 
     {
-        "key": "drpy_js_小狗影院",
-        "name": "🦖强哥┃🔥平安™",
-        "type": 3,
-        "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-        "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/小狗影院.js"
-    },
+"key":"畅梦",
+"name":"🦖强哥┃🔥平安™",
+"type":3,
+"api":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main//lib/drpy2.min.js",
+"ext":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main//y/changmeng.js"
+}, 
+
+//{"key": "drpy_js_小狗影院","name": "🦖强哥┃🔥平安™","type": 3,"api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/小狗影院.js"},
+
     {
         "key": "热播库",
         "name": "🐼平安┃🔥平安™",
         "type": 3,
         "changeable": 1,
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f",
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f",
         "api": "csp_XBPQ",
         "playerType": "1",
         "ext": {
@@ -112,7 +114,7 @@
         "quickSearch": 1,
         "filterable": 1,
         "categories": ["动作片", "爱情片", "喜剧片", "科幻片", "恐怖片", "剧情片", "战争片", "记录片", "灾难片", "悬疑片", "犯罪片", "奇幻片", "动画片", "中国动漫", "日本动漫", "欧美动漫", "内地剧", "欧美剧", "香港剧", "台湾剧", "韩剧", "日剧", "马泰剧", "体育赛事", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺"],
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/dj20240126.jar;md5;cf00cc8baef423e51187750ac973417d"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/dj20240126.jar;md5;cf00cc8baef423e51187750ac973417d"
     },
     {
         "key": "火狐",
@@ -123,14 +125,14 @@
         "quickSearch": 0,
         "filterable": 1,
         "categories": ["内地剧", "韩剧", "香港剧", "台湾剧", "欧美剧", "日剧", "马泰剧", "动作片", "科幻片", "战争片", "喜剧片", "爱情片", "恐怖片", "犯罪片", "剧情片", "冒险片"],
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/dj20240126.jar;md5;cf00cc8baef423e51187750ac973417d"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/dj20240126.jar;md5;cf00cc8baef423e51187750ac973417d"
     },
     {
         "key": "时常",
         "name": "🕺超清┃🔥平安™",
         "type": 3,
         "api": "csp_qiao3",
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/fix24225.jar",
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/jk/main/fix24225.jar",
         "searchable": 1,
         "quickSearch": 1,
         "playerType": 1,
@@ -143,7 +145,7 @@
         "type": 3,
         "playerType": "2",
         "api": "csp_Juqq",
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
     },
     {
         "key": "360_spider",
@@ -162,7 +164,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "changeable": 0,
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d",
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d",
         "ext": {
             "aliToken": "tvfan/token.txt",
             "quarkCookie": "tvfan/cookie.txt",
@@ -202,7 +204,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
     },
 
     {
@@ -215,9 +217,9 @@
         "quickSearch": 1,
         "changeable": 1,
         "ext": "https://www.baipiaoys.com:9092/",
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
     },
-    //{"key": "小点","name": "💥小点┃🔥平安™","type": 3,"api": "csp_Xdys","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"},
+    //{"key": "小点","name": "💥小点┃🔥平安™","type": 3,"api": "csp_Xdys","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"},
     {
         "key": "种子短剧",
         "name": "🍒短剧┃🔥平安™",
@@ -225,7 +227,7 @@
         "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
         "ext": "http://dt.xn--yety82d.love/js/种子短剧.js",
         "playerType": 2,
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
     },
 
     {
@@ -339,7 +341,7 @@
         "key": "赞赞",
         "name": "👍赞赞┃🔥平安™",
         "type": 3,
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d",
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d",
         "api": "csp_AppYsV2",
         "ext": "http://111.230.51.151:2323/api.php/app/",
         "searchable": 1,
@@ -354,7 +356,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "categories": ["动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "香港剧", "台湾剧", "美国剧", "纪录片", "韩国剧", "日本剧", "海外剧", "大陆综艺", "日韩综艺", "港台综艺", "欧梅综艺", "国产动漫", "日韩动漫", "欧梅动漫", "悬疑片", "动画片", "犯罪片", "奇幻片", "邵氏电影", "泰剧", "体育赛事", "体育赛事"],
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
     },
     {
         "key": "zy_天空资源",
@@ -364,7 +366,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "categories": ["动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "香港剧", "台湾剧", "美国剧", "纪录片", "悬疑片", "动画片", "犯罪片", "奇幻片", "韩国剧", "日本剧", "海外剧", "泰剧", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧梅动漫", "邵氏电影"],
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
     },
     {
         "key": "zy_CK资源",
@@ -374,14 +376,14 @@
         "searchable": 1,
         "quickSearch": 1,
         "categories": ["动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "悬疑片", "犯罪片", "奇幻片", "纪录片", "邵氏电影", "动画电影", "冒险片", "惊悚片", "国产剧", "香港剧", "台湾剧", "欧梅剧", "韩国剧", "日本剧", "海外剧", "泰剧", "英剧", "新马剧", "其他剧", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧梅动漫"],
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
     },
     {
         "key": "熊掌",
         "name": "🐻熊掌┃🔥平安™",
         "type": 1,
         "api": "https://xzcjz.com/api.php/provide/vod",
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
     },
     {
         "key": "爱坤",
@@ -391,7 +393,7 @@
         "searchable": 1,
         "changeable": 1,
         "categories": ["电影", "连续剧", "综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "香港剧", "韩国剧", "欧美剧", "台湾剧", "日本剧", "海外剧", "泰国剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "国产动漫", "欧美动漫", "日韩动漫", "爽文短剧", "体育", "足球", "NBA", "CBA", "德甲", "意甲", "英超", "西甲", "法甲", "WCBA", "LPL"],
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
     },
     {
         "key": "暴风",
@@ -402,13 +404,13 @@
         "filterable": 1,
         "quickSearch": 1,
         "categories": ["国产动漫", "日韩动漫", "欧美动漫", "海外动漫", "动画片", "国产剧", "韩国剧", "香港剧", "台湾剧", "欧美剧", "动作片", "科幻片", "喜剧片", "恐怖片", "战争片"],
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
     },
     {
         "key": "js_nangua",
         "name": "🥒瓜瓜┃🔥平安™",
         "type": 3,
-        "api": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/drpy1.js",
+        "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/jk/main/drpy1.js",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
@@ -436,7 +438,7 @@
         "type": 3,
         "playerType": "2",
         "api": "csp_SaoHuo",
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
     },
     {
         "key": " 在线┃直播1",
@@ -449,7 +451,7 @@
             "type": "rect",
             "ratio": 1.68
         },
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
     },
     {
         "key": "荐片",
@@ -458,7 +460,7 @@
         "type": 3,
         "playerType": "2",
         "ext": "http://api2.rinhome.com",
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
     },
     {
         "key": "虎虎",
@@ -476,7 +478,7 @@
         "changeable": 1,
         "playerType": "2",
         "api": "csp_XBPQ",
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f",
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f",
         "ext": {
             "站名": "黑狐影院",
             "主页url": "http://fagmn.com",
@@ -514,7 +516,7 @@
         "key": "蛋蛋",
         "name": "🥚蛋蛋┃🔥平安™",
         "type": 3,
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/Yoursmile.jar;md5;7948386C2C0C50DF45F25D7B4DE7B328",
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/jk/main/Yoursmile.jar;md5;7948386C2C0C50DF45F25D7B4DE7B328",
         "api": "csp_XBPQ",
         "searchable": 1,
         "quickSearch": 1,
@@ -531,7 +533,7 @@
         }
     },
 
-    //    {"key": "蛋蛋","name": "🥚蛋蛋┃🔥平安™","type": 3,"api": "csp_Cddys","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"},
+    //    {"key": "蛋蛋","name": "🥚蛋蛋┃🔥平安™","type": 3,"api": "csp_Cddys","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"},
     {
         "key": "孜孜",
         "name": "🥊孜孜┃🔥平安™",
@@ -573,7 +575,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/Yoursmile.jar;md5;7948386C2C0C50DF45F25D7B4DE7B328"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/jk/main/Yoursmile.jar;md5;7948386C2C0C50DF45F25D7B4DE7B328"
     },
     {
         "key": "zy_金鹰资源",
@@ -583,7 +585,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "categories": ["欧美剧", "香港剧", "韩剧", "日剧", "马泰剧", "动作片", "爱情片", "喜剧片", "科幻片", "恐怖片", "剧情片", "战争片", "记录片", "动漫", "内地剧", "动画片", "中国动漫", "日本动漫", "欧美动漫", "综艺", "台湾剧", "体育赛事"],
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/dj20240126.jar;md5;cf00cc8baef423e51187750ac973417d"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/dj20240126.jar;md5;cf00cc8baef423e51187750ac973417d"
     },
     {
         "key": "虎牙",
@@ -593,7 +595,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "categories": ["内地剧", "动作片", "科幻片", "战争片", "喜剧片", "爱情片", "恐怖片", "犯罪片", "剧情片", "冒险片", "记录片", "韩剧", "香港剧", "台湾剧", "欧美剧", "日剧", "马泰剧", "体育赛事", "综艺", "动画片", "中国动漫", "日本动漫", "欧美动漫"],
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/dj20240126.jar;md5;cf00cc8baef423e51187750ac973417d"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/dj20240126.jar;md5;cf00cc8baef423e51187750ac973417d"
     },
     {
         "key": "光速资源",
@@ -603,7 +605,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "categories": ["动作片", "喜剧片", "爱情片", "科幻片", "剧情片", "恐怖片", "战争片", "动漫电影", "大陆剧", "欧美剧", "港澳剧", "韩剧", "日剧", "台湾剧", "泰剧", "综艺", "动漫", "记录片"],
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/dj20240126.jar;md5;cf00cc8baef423e51187750ac973417d"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/dj20240126.jar;md5;cf00cc8baef423e51187750ac973417d"
     },
     {
         "key": "快车资源",
@@ -613,18 +615,18 @@
         "searchable": 1,
         "quickSearch": 1,
         "categories": ["国产剧", "战争片", "动作片", "香港剧"],
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/dj20240126.jar;md5;cf00cc8baef423e51187750ac973417d"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/dj20240126.jar;md5;cf00cc8baef423e51187750ac973417d"
     },
     {
         "key": "dr_ikanbot",
         "name": "🌺机器┃🔥平安™",
         "type": 3,
-        "api": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/drpy1.js",
+        "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/jk/main/drpy1.js",
         "searchable": 2,
         "quickSearch": 1,
         "filterable": 0,
         "ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/ikanbot3.js",
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/dj20240126.jar;md5;cf00cc8baef423e51187750ac973417d"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/dj20240126.jar;md5;cf00cc8baef423e51187750ac973417d"
     },
     {
         "key": "红牛资源",
@@ -635,7 +637,7 @@
         "quickSearch": 1,
         "playUrl": "",
         "categories": ["国产剧", "战争片", "综艺", "动漫"],
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/dj20240126.jar;md5;cf00cc8baef423e51187750ac973417d"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/dj20240126.jar;md5;cf00cc8baef423e51187750ac973417d"
     },
     {
         "key": "天空资源",
@@ -646,7 +648,7 @@
         "quickSearch": 1,
         "playUrl": "",
         "categories": ["国产剧", "剧情片", "大陆综艺", "动作片"],
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/dj20240126.jar;md5;cf00cc8baef423e51187750ac973417d"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/dj20240126.jar;md5;cf00cc8baef423e51187750ac973417d"
     },
     {
         "key": "熊猫",
@@ -720,7 +722,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/nmys0607.json"
+        "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/nmys0607.json"
     },
     {
         "key": "糯米",
@@ -731,8 +733,8 @@
         "searchable": 1,
         "quickSearch": 1,
         "changeable": 1,
-        "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/nmys.json",
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
+        "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/jk/main/nmys.json",
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
     },
     {
         "key": "csp_Vidhub2",
@@ -742,7 +744,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
     },
     {
         "key": "csp_Ddys",
@@ -770,7 +772,7 @@
         "quickSearch": 1,
         "changeable": 0,
         "ext": "FbjDcUxPqpfNr0RPuV3f6q00fpJXAZtZEXlI9/f10UBGGozerC+JkBvO/bX4Ciy9c3mMnn8zmDIq",
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
     },
     {
         "key": "热播",
@@ -783,7 +785,7 @@
         "quickSearch": 1,
         "changeable": 1,
         "ext": "AO7TcBkd8I/B5wQc4Qma+pU=",
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
     },
     {
         "key": "萌米",
@@ -793,7 +795,7 @@
         "timeout": 15,
         "playerType": 1,
         "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==",
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
     },
     {
         "key": "星奇",
@@ -805,7 +807,7 @@
         "quickSearch": 1,
         "changeable": 1,
         "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTv2eOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXaDs+dIWMYiwf6td5CWTx6LfL6eTuiMhs2KU5Byw9F+4Y/AHBg4r+LEe+Hm4EM2d8X3ca5zHSj+kjmpXOiGDo4TalFqgTq67eggmthCbV2d131SKc03V+5gruudQQk/Tb9e4lg6SQhA9/5kWOOM/LRmkqIxSt6d0wpu7yKKh65enwKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5lYNmxnWeRnYuLhoZbDqslAfJzg",
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
     },
     {
         "key": "毛驴",
@@ -815,7 +817,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
     },
     {
         "key": "兄弟",
@@ -825,7 +827,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
     },
     {
         "key": "厂长",
@@ -837,7 +839,7 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext": "https://czzy.top/",
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
     },
     {
         "key": "csp_Czsapp",
@@ -857,7 +859,7 @@
         "playerType": "2",
         "api": "csp_AppRZ",
         "ext": "http://rzys.xyz/",
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
     },
     {
         "key": "攻阁",
@@ -871,7 +873,7 @@
         "name": "🍄比特┃🔥平安™",
         "type": 3,
         "api": "csp_Bttwo",
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
     },
     {
         "key": "可可",
@@ -882,7 +884,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
     },
 
     {
@@ -894,7 +896,7 @@
         "quickSearch": 1,
         "changeable": 1,
         "ext": "https://www.libvio.pw/",
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
     },
     {
         "key": "csp_Auete",
@@ -914,7 +916,7 @@
         "quickSearch": 1,
         "changeable": 1,
         "ext": "https://auete.pro/",
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
     },
     {
         "key": "量子资源",
@@ -995,7 +997,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "changeable": 1,
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
     },
 
     {
@@ -1007,7 +1009,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "changeable": 1,
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
     },
     {
         "key": "原创",
@@ -1018,7 +1020,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "changeable": 1,
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
     },
     {
         "key": "视觉",
@@ -1030,7 +1032,7 @@
         "quickSearch": 1,
         "changeable": 1,
         "ext": "https://www.80yy3.com/",
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
     },
     {
         "key": "Xinsj",
@@ -1041,7 +1043,7 @@
         "quickSearch": 1,
         "changeable": 1,
         "ext": "https://www.hdmyy.com/",
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
     },
     {
         "key": "追剧",
@@ -1050,7 +1052,7 @@
         "api": "csp_AppTT",
         "playerType": 2,
         "ext": "AO7TcBkd8Jqf5UgA7xXA6dVlLcc=",
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
     },
     {
         "key": "csp_Bttoo",
@@ -1080,7 +1082,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
     },
     {
         "key": "云播影视",
@@ -1125,7 +1127,7 @@
             "分类url": "http://www.hktvyun.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;a",
             "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
         },
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/Yoursmile.jar;md5;7948386C2C0C50DF45F25D7B4DE7B328"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/jk/main/Yoursmile.jar;md5;7948386C2C0C50DF45F25D7B4DE7B328"
     },
     {
         "key": "csp_Duopan",
@@ -1135,7 +1137,7 @@
         "playerType": 2,
         "filterable": 1,
         "ext": "https://duopan.fun/",
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
     },
 
     {
@@ -1144,7 +1146,7 @@
         "type": 3,
         "playerType": "2",
         "api": "http://js.xn--z7x900a.com/js/ng_open.js",
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
     },
 
     {
@@ -1155,7 +1157,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
     },
     {
         "key": "胖虎",
@@ -1167,7 +1169,7 @@
         "filterable": 1,
         "playerType": 1,
         "ext": "https://physvod.com",
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
     },
     {
         "key": "csp_FengGo",
@@ -1175,7 +1177,7 @@
         "type": 3,
         "api": "csp_FengGo",
         "playerType": 2,
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
     },
     {
         "key": "csp_Nkdy",
@@ -1183,7 +1185,7 @@
         "type": 3,
         "playerType": "2",
         "api": "csp_Nkdy",
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
     },
 
     {
@@ -1271,8 +1273,8 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/奇优.json",
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/Yoursmile.jar;md5;7948386C2C0C50DF45F25D7B4DE7B328"
+        "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/jk/main/奇优.json",
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/jk/main/Yoursmile.jar;md5;7948386C2C0C50DF45F25D7B4DE7B328"
     },
 
     {
@@ -1284,7 +1286,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/Yoursmile.jar;md5;7948386C2C0C50DF45F25D7B4DE7B328",
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/jk/main/Yoursmile.jar;md5;7948386C2C0C50DF45F25D7B4DE7B328",
         "ext": {
             "分类url": "https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html;;ar1",
             "分类": "电影&剧集&动漫&综艺&短剧&少儿",
@@ -1336,7 +1338,7 @@
         "quickSearch": 1,
         "changeable": 1,
         "ext": "https://www.zxzjhd.com/",
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
     },
     {
         "key": "csp_Bdys",
@@ -1366,7 +1368,7 @@
         "quickSearch": 1,
         "filterable": 1,
         "changeable": 0,
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
     },
     {
         "key": "Qtv",
@@ -1468,7 +1470,7 @@
         "searchable": 0,
         "quickSearch": 0,
         "filterable": 0,
-        "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/短视频.json"
+        "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/短视频.json"
     },
     {
         "key": "csp_XYQHiker_有声小说吧",
@@ -1478,7 +1480,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/有声小说吧.json"
+        "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/有声小说吧.json"
     },
     {
         "key": "直播",
@@ -1499,7 +1501,7 @@
         "timeout": 30,
         "playerType": 1,
         "ext": "1",
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PG0506.jar"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/PG0506.jar"
     },
     {
         "key": "河马",
@@ -1508,7 +1510,7 @@
         "api": "csp_Hmys",
         "playerType": 1,
         "ext": "https://m.jmzp.net.cn$$$null$$$1",
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PG0506.jar"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/PG0506.jar"
     },
     {
         "key": "天天",
@@ -1517,7 +1519,7 @@
         "api": "csp_TTian",
         "playerType": 1,
         "ext": "http://op.ysdqjs.cn$$$null$$$1",
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PG0506.jar"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/PG0506.jar"
     },
     {
         "key": "追剧",
@@ -1526,7 +1528,7 @@
         "api": "csp_TTian",
         "playerType": 1,
         "ext": "http://app.kzjtv.com$$$null$$$1",
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PG0506.jar"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/PG0506.jar"
     },
     {
         "key": "蝴蝶",
@@ -1536,7 +1538,7 @@
         "searchable": 0,
         "playerType": 2,
         "ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b$$$null$$$1",
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PG0506.jar"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/PG0506.jar"
     },
     {
         "key": "tvbsk",
@@ -1545,7 +1547,7 @@
         "api": "csp_Skapp",
         "playerType": 2,
         "ext": "CWL+IfA5s3TICYJ8lk+lYcjPA/WXNYE4LRTfUSa9I+X9ibZY05syLe/O7u2miaiYRiSaKE51xQOxm38YeL27jRUyF6+GJKVQArnP7QbC+qw2okju8YACfPzD3rpQo8uckl2rQh925A6lp4VD0ELHJrUvDGTlojwKtynX78d5E88HbdSsCV5pIueNPH5+z42FBt21KGN5lnE7/qqEGpSyFzbARD4aWuhSHsun7GQU9yaXZn0F4l4o2YYaEvRtsz4z9Mo8+7aj2nZsCkFWLNpgv6kzFNohSTWVDkajg5aj6s7d8CPNIvvC+gr0zm79fuuvNQF6NfaiBOrvTwamMJa3F3w==$$$null$$$1",
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PG0506.jar"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/PG0506.jar"
     },
     {
         "key": "七夜",
@@ -1605,7 +1607,7 @@
         "quickSearch": 1,
         "changeable": 0,
         "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
     },
     {
         "key": "csp_AliPS",
@@ -1635,7 +1637,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://ghproxy.net/https://github.com/Mrish9527/tv/raw/main/影搜.json"
+        "ext": "https://github.moeyy.xyz/https://github.com/Mrish9527/tv/raw/main/影搜.json"
     },
     {
         "key": "csp_XYQHikerAL_玩偶哥哥",
@@ -1645,7 +1647,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/玩偶哥哥.json"
+        "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/玩偶哥哥.json"
     },
     {
         "key": "csp_XYQHikerAL_云盘资源",
@@ -1719,7 +1721,7 @@
         "quickSearch": 0,
         "changeable": 0,
         "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/biliych.json",
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"
     },
     {
         "key": "88js",
@@ -1762,7 +1764,7 @@
             "type": "list"
         },
         "ext": "http://dt.xn--yety82d.love/js/310直播.js",
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
     },
     {
         "key": "js虎牙",
@@ -1857,7 +1859,7 @@
             "ratio": 1.597
         },
         "ext": "http://alist.xn--z7x900a.live/兔小贝.js",
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
     },
     {
         "key": "少儿",
@@ -1872,7 +1874,7 @@
             "ratio": 1.597
         },
         "ext": "http://alist.xn--z7x900a.live/少儿教育.json",
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
     },
     {
         "key": "小学",
@@ -1887,7 +1889,7 @@
             "ratio": 1.597
         },
         "ext": "http://alist.xn--z7x900a.live/小学课堂.json",
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
     },
     {
         "key": "初中",
@@ -1902,7 +1904,7 @@
             "ratio": 1.597
         },
         "ext": "http://alist.xn--z7x900a.live/初中课堂.json",
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
     },
     {
         "key": "高中",
@@ -1917,7 +1919,7 @@
             "ratio": 1.597
         },
         "ext": "http://alist.xn--z7x900a.live/高中课堂.json",
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
+        "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
     },
     {
         "key": "公告",
