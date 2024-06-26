@@ -173,6 +173,243 @@
             "danMu": "弹"
         }
     },
+
+
+	{
+		"key": "rbys",
+		"name": "😁热播┃🔥平安™",
+		"type": 3,
+		"api": "csp_AppTT",
+		"searchable": 1,
+		"quickSearch": 1,
+		"changeable": 1,
+		"timeout": 15,
+		"playerType": 2,
+		"ext": "AO7TcBkd8I/B5wQc4Qma+pU=",
+		"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
+	},
+	{
+		"key": "ngys",
+		"name": "🍈南瓜┃🔥平安™",
+		"type": 3,
+		"api": "csp_NanGua",
+		"searchable": 1,
+		"quickSearch": 1,
+		"changeable": 1,
+		"playerType": 2,
+		"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/meow1.jar;md5;d1115d99527d75948d095085b1407add"
+	},
+	{
+		"key": "mmys",
+		"name": "🥗萌米┃🔥平安™",
+		"type": 3,
+		"api": "csp_AppTT",
+		"searchable": 1,
+		"quickSearch": 1,
+		"changeable": 1,
+		"timeout": 15,
+		"playerType": 1,
+		"ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==",
+		"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
+	},
+	{
+		"key": "pgys",
+		"name": "🍏苹果┃🔥平安™",
+		"type": 3,
+		"api": "csp_LiteApple",
+		"searchable": 1,
+		"quickSearch": 1,
+		"changeable": 1,
+		"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
+	},
+	{
+		"key": "kkys",
+		"name": "☕可可┃🔥平安™",
+		"type": 3,
+		"api": "csp_Keke",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"playerType": 2,
+		"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"
+	},
+	{
+		"key": "nkys",
+		"name": "💄耐看┃🔥平安™",
+		"type": 3,
+		"api": "csp_Nkdy",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"playerType": 2,
+		"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"
+	},
+	{
+		"key": "jqys",
+		"name": "🍥剧圈┃🔥平安™",
+		"type": 3,
+		"api": "csp_Juqq",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"playerType": 2,
+		"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"
+	},
+	{
+		"key": "btys",
+		"name": "📟比特┃🔥平安™",
+		"type": 3,
+		"api": "csp_Bttwoo",
+		"searchable": 1,
+		"quickSearch": 1,
+		"changeable": 1,
+		"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
+	},
+	{
+		"key": "lbys",
+		"name": "💻利播┃🔥平安™",
+		"type": 3,
+		"api": "csp_Libvio",
+		"searchable": 1,
+		"quickSearch": 1,
+		"changeable": 1,
+		"timeout": 15,
+		"ext": "https://www.libvio.pw/",
+		"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
+	},
+	{
+		"key": "atys",
+		"name": "🔮奥特┃🔥平安™",
+		"type": 3,
+		"api": "csp_Auete",
+		"searchable": 1,
+		"quickSearch": 1,
+		"changeable": 1,
+		"timeout": 15,
+		"ext": "https://auete.pro/",
+		"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
+	},
+	{
+		"key": "yzys",
+		"name": "🍋柚子┃🔥平安™",
+		"type": 3,
+		"api": "csp_AppSK",
+		"searchable": 1,
+		"quickSearch": 1,
+		"changeable": 1,
+		"ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg==",
+		"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/meow1.jar;md5;d1115d99527d75948d095085b1407add"
+	},
+	{
+		"key": "xxys",
+		"name": "👶新新┃🔥平安™",
+		"type": 3,
+		"api": "csp_AppYsV2",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "http://4k.953365.cn:8090/xgapp.php/v3/",
+		"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/meow1.jar;md5;d1115d99527d75948d095085b1407add"
+	},
+	{
+		"key": "ljys",
+		"name": "💏六九┃🔥平安™",
+		"type": 3,
+		"api": "csp_AppYsV2",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://www.69mj.com/xgapp.php/v2/",
+		"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
+	},
+	{
+		"key": "Qxys",
+		"name": "🎪七新┃🔥平安™",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "http://cdn.teyonds.com/xp/七新影视.json",
+		"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/meow1.jar;md5;d1115d99527d75948d095085b1407add"
+	},
+	{
+		"key": "ssys",
+		"name": "🎢三思┃🔥平安™",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "http://cdn.teyonds.com/xp/三思影视.json",
+		"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
+	},
+	{
+		"key": "syys",
+		"name": "📽速映┃🔥平安™",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "http://cdn.teyonds.com/xp/速映影视.json",
+		"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
+	},
+	{
+		"key": "ggys",
+		"name": "👤光棍┃🔥平安™",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "http://cdn.teyonds.com/xp/光棍影视.json",
+		"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/meow1.jar;md5;d1115d99527d75948d095085b1407add"
+	},
+	{
+		"key": "wfys",
+		"name": "🥅网飞┃🔥平安™",
+		"type": 3,
+		"api": "MJS_wfys",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "http://cdn.teyonds.com/js/网飞影视.js",
+		"api": "http://cdn.teyonds.com/js/drpy2.min.js",
+		"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/meow1.jar;md5;d1115d99527d75948d095085b1407add"
+	},
+	{
+		"key": "xsys",
+		"name": "🥍先生┃🔥平安™",
+		"type": 3,
+		"api": "MJS_dyxs",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "http://cdn.teyonds.com/js/电影先生.js",
+		"api": "http://cdn.teyonds.com/js/drpy2.min.js",
+		"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/meow1.jar;md5;d1115d99527d75948d095085b1407add"
+	},
+	{
+		"key": "mays",
+		"name": "🍚米爱┃🔥平安™",
+		"type": 3,
+		"api": "MJS_mays",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "http://cdn.teyonds.com/js/米爱影视.js",
+		"api": "http://cdn.teyonds.com/js/drpy2.min.js",
+		"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/tv/main/meow1.jar;md5;d1115d99527d75948d095085b1407add"
+	},
+
+
+
+
+
+
+
+
     {
         "key": "drpy_js_腾云驾雾",
         "name": "🌬腾雾┃🔥平安™",
@@ -1923,7 +2160,7 @@
     },
     {
         "key": "公告",
-        "name": "⏱20240618",
+        "name": "⏱20240626",
         "type": 3,
         "api": "",
         "searchable": 0,
