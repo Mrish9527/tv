@@ -1,7 +1,7 @@
 {
     "口口": "https://cnlv.neocities.org/",
     "友情提醒": "平安邀您畅享视界！",
-    "warningText": "平安爸整理！如侵权，懒得删！\n \n网络套路深，谨防被割韭菜\n \n国内ISP都不靠谱，国外慢但稳定\n \n---------且用且珍惜---------",
+    "warningText": "平安爸整理！如侵权，懒得删！\n \n能用就用不能用就洗洗睡\n \n勿信广告和公众号引流\n \n---------且用且珍惜---------",
     "wallpaper": "https://tuapi.eees.cc/api.php?category={fengjing,biying,dongman,meinv}&type=302",
     //     "spider": "https://notabug.org/cnlv/jk/raw/master/XYQ20240607.jar;md5;07f7e56adbda0c328398d7d663ff75a5",
     //    "spider": "https://jihulab.com/cnlv/tv/-/raw/main/PandaQ240318.jar;md5;5b59d2999497d6e0c1eb256bcd77f2c7",
@@ -65,7 +65,7 @@
 
     {
 "key":"畅梦",
-"name":"🦖强哥┃🔥平安™",
+"name":"🐼强哥┃🔥平安™",
 "type":3,
 "api":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main//lib/drpy2.min.js",
 "ext":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main//y/changmeng.js"
@@ -150,7 +150,7 @@
 
 	{
 		"key": "rbys",
-		"name": "😁热播┃🔥平安™",
+		"name": "🐼口口┃🔥平安™",
 		"type": 3,
 		"api": "csp_AppTT",
 		"searchable": 1,
@@ -174,7 +174,7 @@
 	},
 	{
 		"key": "mmys",
-		"name": "🥗萌萌┃🔥平安™",
+		"name": "🐼强强┃🔥平安™",
 		"type": 3,
 		"api": "csp_AppTT",
 		"searchable": 1,
