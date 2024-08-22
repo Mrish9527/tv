@@ -1,6 +1,8 @@
 {
     "口口": "https://cnlv.neocities.org/",
     "友情提醒": "平安邀您畅享视界！",
+//    "logo": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mrish9527/tv/main/palogo.png",
+      "logo": "https://git.acwing.com/cnlv/tv/-/raw/main/palogo.png",
     "warningText": "平安爸整理！如侵权，懒得删！\n \n能用就用，不能用就洗洗睡\n \n勿信广告和公众号引流\n \n---------且用且珍惜---------",
     "wallpaper": "https://tuapi.eees.cc/api.php?category={fengjing,biying,dongman,meinv}&type=302",
     //     "spider": "https://notabug.org/cnlv/jk/raw/master/XYQ20240607.jar;md5;07f7e56adbda0c328398d7d663ff75a5",
@@ -13,14 +15,15 @@
     //    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mrish9527/tv/main/XYQ0618.jar;md5;07f7e56adbda0c328398d7d663ff75a5",
     //    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mrish9527/tv/main/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f",
     //    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mrish9527/tv/main/xyq0715.jar;md5;b0f882e4f73e078bb53807dac73faef5",
-        "spider": "https://gitee.com/cnlv/jk/raw/master/xyq0715.jar;md5;b0f882e4f73e078bb53807dac73faef5",
+   //     "spider": "https://gitee.com/cnlv/jk/raw/master/xyq0715.jar;md5;b0f882e4f73e078bb53807dac73faef5",
+           "spider": "https://4622.kstore.space/fty0816.jar;md5;2d88ca12b97435501ba22ca12ce03d92",
     
     "lives": [
     {
         "name": "live1",
         "type": 0,
         "playerType": 1,
-        "url": "https://gitee.com/cnlv/jk/raw/master/live.txt",
+        "url": "https://git.acwing.com/cnlv/tv/-/raw/main/live.txt",
         "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -28,7 +31,7 @@
         "name": "live2",
         "type": 0,
         "playerType": 1,
-        "url": "https://git.acwing.com/cnlv/tv/-/raw/main/live.txt",
+        "url": "https://www.gitlink.org.cn/api/cnlv/tvbox/raw/live.txt?ref=master",
         "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
@@ -129,7 +132,6 @@
         "categories": ["内地剧", "韩剧", "香港剧", "台湾剧", "欧美剧", "日剧", "马泰剧", "动作片", "科幻片", "战争片", "喜剧片", "爱情片", "恐怖片", "犯罪片", "剧情片", "冒险片"],
         "jar": "https://gitee.com/cnlv/jk/raw/master/dj20240126.jar;md5;cf00cc8baef423e51187750ac973417d"
     },
-//    {"key": "时常","name": "🕺超清┃🔥平安™","type": 3,"api": "csp_qiao3","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mrish9527/jk/main/fix24225.jar","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 0,"ext": "https://sc1080.top|e59d44b2eef03ad9|e59d44b2eef03ad9"},
     {
         "key": "csp_Juqq",
         "name": "💃高清┃🔥平安™",
@@ -147,505 +149,324 @@
         "quickSearch": 1,
         "searchable": 1
     },
-//    {"key": "玩偶","name": "👽蓝光┃🔥平安™","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d","ext": {"aliToken": "tvfan/token.txt","quarkCookie": "tvfan/cookie.txt","from": "4k|auto|fhd","siteUrl": "https://www.wogg.link/","danMu": "弹"}},
 
+//////以下饭佬源，公众号引流
 
-	{
-		"key": "rbys",
-		"name": "🐼口口┃🔥平安™",
-		"type": 3,
-		"api": "csp_AppTT",
-		"searchable": 1,
-		"quickSearch": 1,
-		"changeable": 1,
-		"timeout": 15,
-		"playerType": 2,
-		"ext": "AO7TcBkd8I/B5wQc4Qma+pU=",
-		"jar": "https://gitee.com/cnlv/jk/raw/master/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
-	},
-	{
-		"key": "ngys",
-		"name": "🐼弓虽┃🔥平安™",
-		"type": 3,
-		"api": "csp_NanGua",
-		"searchable": 1,
-		"quickSearch": 1,
-		"changeable": 1,
-		"playerType": 2,
-		"jar": "https://gitee.com/cnlv/jk/raw/master/meow1.jar;md5;d1115d99527d75948d095085b1407add"
-	},
-	{
-		"key": "mmys",
-		"name": "🐼强强┃🔥平安™",
-		"type": 3,
-		"api": "csp_AppTT",
-		"searchable": 1,
-		"quickSearch": 1,
-		"changeable": 1,
-		"timeout": 15,
-		"playerType": 1,
-		"ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==",
-		"jar": "https://gitee.com/cnlv/jk/raw/master/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
-	},
-	{
-		"key": "pgys",
-		"name": "🍏苹果┃🔥平安™",
-		"type": 3,
-		"api": "csp_LiteApple",
-		"searchable": 1,
-		"quickSearch": 1,
-		"changeable": 1,
-		"jar": "https://gitee.com/cnlv/jk/raw/master/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
-	},
-	{
-		"key": "kkys",
-		"name": "☕可可┃🔥平安™",
-		"type": 3,
-		"api": "csp_Keke",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"playerType": 2,
-		"jar": "https://gitee.com/cnlv/jk/raw/master/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"
-	},
-	{
-		"key": "nkys",
-		"name": "💄耐看┃🔥平安™",
-		"type": 3,
-		"api": "csp_Nkdy",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"playerType": 2,
-		"jar": "https://gitee.com/cnlv/jk/raw/master/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"
-	},
-	{
-		"key": "jqys",
-		"name": "🍥剧圈┃🔥平安™",
-		"type": 3,
-		"api": "csp_Juqq",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"playerType": 2,
-		"jar": "https://gitee.com/cnlv/jk/raw/master/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"
-	},
-	{
-		"key": "btys",
-		"name": "📟比特┃🔥平安™",
-		"type": 3,
-		"api": "csp_Bttwoo",
-		"searchable": 1,
-		"quickSearch": 1,
-		"changeable": 1,
-		"jar": "https://gitee.com/cnlv/jk/raw/master/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
-	},
-	{
-		"key": "lbys",
-		"name": "💻利播┃🔥平安™",
-		"type": 3,
-		"api": "csp_Libvio",
-		"searchable": 1,
-		"quickSearch": 1,
-		"changeable": 1,
-		"timeout": 15,
-		"ext": "https://www.libvio.pw/",
-		"jar": "https://gitee.com/cnlv/jk/raw/master/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
-	},
-	{
-		"key": "atys",
-		"name": "🔮奥特┃🔥平安™",
-		"type": 3,
-		"api": "csp_Auete",
-		"searchable": 1,
-		"quickSearch": 1,
-		"changeable": 1,
-		"timeout": 15,
-		"ext": "https://auete.pro/",
-		"jar": "https://gitee.com/cnlv/jk/raw/master/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
-	},
-	{
-		"key": "yzys",
-		"name": "🍋柚子┃🔥平安™",
-		"type": 3,
-		"api": "csp_AppSK",
-		"searchable": 1,
-		"quickSearch": 1,
-		"changeable": 1,
-		"ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg==",
-		"jar": "https://gitee.com/cnlv/jk/raw/master/meow1.jar;md5;d1115d99527d75948d095085b1407add"
-	},
     {
-      "key": "ddys",
-      "name": "🏝低端┃🔥平安™",
+      "key": "玩偶",
+      "name": "👽玩偶┃🔥平安™",
       "type": 3,
-      "api": "csp_Ddrk",
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto",
+        "siteUrl": "https://www.wogg.net/",
+        "danMu": "弹"
+      }
+    },
+    {
+      "key": "酷看",
+      "name": "💡酷看┃🔥平安™",
+      "type": 3,
+      "api": "csp_Kkys",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "文采",
+      "name": "💮文采┃🔥平安™",
+      "type": 3,
+      "api": "csp_Jpys",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "苹果",
+      "name": "🍎苹果┃🔥平安™",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "小点",
+      "name": "💥小点┃🔥平安™",
+      "type": 3,
+      "api": "csp_Appxd",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "FbjEd1ddiJ6bwA0Z8ijG89k6OstPBosSHy5L8uXWgRZGSNrCqC7DmxucvvflR3fsMy/Wnih3xSpmA3pwCNspfAcIH4fYhmOEdGxX3jEdjqUpC+m0fSxkNAbkIy0diJWirn+WOtBkBcYhsgA8u1igBBUadbO0s0MCPsYcbHFRNw=="
+    },
+    {
+      "key": "煤球",
+      "name": "🍓煤球┃🔥平安™",
+      "type": 3,
+      "api": "csp_Appmq",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "厂长",
+      "name": "📔厂长┃🔥平安™",
+      "type": 3,
+      "api": "csp_NewCz",
+      "timeout": 15,
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "playerType": 2,
-		"jar": "https://gitee.com/cnlv/jk/raw/master/meow1.jar;md5;d1115d99527d75948d095085b1407add"
+      "ext": "https://www.czys.pro/"
     },
-
-
-	{
-		"key": "xxys",
-		"name": "👶新新┃🔥平安™",
-		"type": 3,
-		"api": "csp_AppYsV2",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "http://4k.953365.cn:8090/xgapp.php/v3/",
-		"jar": "https://gitee.com/cnlv/jk/raw/master/meow1.jar;md5;d1115d99527d75948d095085b1407add"
-	},
     {
-      "key": "sjys",
-      "name": "👁视觉┃🔥平安™",
+      "key": "原创",
+      "name": "☀原创┃🔥平安™",
       "type": 3,
-      "api": "csp_Xinsj",
+      "api": "csp_YCyz",
+      "timeout": 15,
+      "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-		"jar": "https://gitee.com/cnlv/jk/raw/master/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
+      "changeable": 1
     },
     {
-      "key": "czys",
-      "name": "🧱厂长┃🔥平安™",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "ext": "https://czzy.top/",
-		"jar": "https://gitee.com/cnlv/jk/raw/master/meow1.jar;md5;d1115d99527d75948d095085b1407add"
-    },
-
-	{
-		"key": "ljys",
-		"name": "💏六九┃🔥平安™",
-		"type": 3,
-		"api": "csp_AppYsV2",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://www.69mj.com/xgapp.php/v2/",
-		"jar": "https://gitee.com/cnlv/jk/raw/master/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
-	},
-    {
-      "key": "zxys",
-      "name": "💻在线┃🔥平安™",
+      "key": "zxzj",
+      "name": "🍊在线┃🔥平安™",
       "type": 3,
       "api": "csp_Zxzj",
+      "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.zxzj.pro/",
-		"jar": "https://gitee.com/cnlv/jk/raw/master/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
-    },
-
-	{
-		"key": "Qxys",
-		"name": "🎪七新┃🔥平安™",
-		"type": 3,
-		"api": "csp_XBPQ",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "http://cdn.teyonds.com/xp/七新影视.json",
-		"jar": "https://gitee.com/cnlv/jk/raw/master/meow1.jar;md5;d1115d99527d75948d095085b1407add"
-	},
-    {
-      "key": "ynys",
-      "name": "🦆鸭奈┃🔥平安™",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cdn.teyonds.com/xp/鸭奈影视.json",
-      "jar": "https://gitee.com/cnlv/jk/raw/master/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
-    },
-	{
-		"key": "ssys",
-		"name": "🎢三思┃🔥平安™",
-		"type": 3,
-		"api": "csp_XBPQ",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "http://cdn.teyonds.com/xp/三思影视.json",
-		"jar": "https://gitee.com/cnlv/jk/raw/master/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
-	},
-    {
-      "key": "nfys",
-      "name": "🌪奈飞┃🔥平安™",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cdn.teyonds.com/xp/奈飞影视.json",
-      "jar": "https://gitee.com/cnlv/jk/raw/master/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
+      "ext": "https://www.zxzjhd.com/"
     },
     {
-      "key": "qyys",
-      "name": "🧠奇优┃🔥平安™",
+      "key": "低端",
+      "name": "⏮️低端┃🔥平安™",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_Ddrk",
+      "playerType": "2",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cdn.teyonds.com/xp/奇优影院.json",
-		"jar": "https://gitee.com/cnlv/jk/raw/master/meow1.jar;md5;d1115d99527d75948d095085b1407add"
+      "changeable": 1
     },
     {
-      "key": "lgys",
-      "name": "💦蓝光┃🔥平安™",
+      "key": "贱贱",
+      "name": "🐭贱贱┃🔥平安™",
       "type": 3,
-      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cdn.teyonds.com/xp/蓝光影视.json",
-		"jar": "https://gitee.com/cnlv/jk/raw/master/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
+      "changeable": 1,
+      "playerType": "1",
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
     },
     {
-      "key": "phys",
-      "name": "🐯胖虎┃🔥平安™",
+      "key": "可可",
+      "name": "👻可可┃🔥平安™",
       "type": 3,
-      "api": "csp_Panghu",
+      "api": "csp_Kekys",
+      "timeout": 15,
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "热播",
+      "name": "📺热播┃🔥平安™",
+      "type": 3,
+      "api": "csp_AppTT",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
+    },
+    {
+      "key": "萌米",
+      "name": "👀萌米┃🔥平安™",
+      "type": 3,
+      "api": "csp_AppTT",
+      "timeout": 15,
       "playerType": 1,
-      "ext": "https://physvod.com",
-		"jar": "https://gitee.com/cnlv/jk/raw/master/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"
+      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
     },
     {
-      "key": "rzys",
-      "name": "👤忍者┃🔥平安™",
+      "key": "南瓜",
+      "name": "🎃南瓜┃🔥平安™",
       "type": 3,
-      "api": "csp_AppRZ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+      "api": "csp_NanGua",
+      "timeout": 15,
       "playerType": 2,
-      "ext": "http://rzys.xyz/",
-		"jar": "https://gitee.com/cnlv/jk/raw/master/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"
-    },
-    {
-      "key": "dgys",
-      "name": "🐢达龟┃🔥平安™",
-      "type": 3,
-      "api": "csp_XPathFilter",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cdn.teyonds.com/xp/达龟影视.json",
-		"jar": "https://gitee.com/cnlv/jk/raw/master/meow1.jar;md5;d1115d99527d75948d095085b1407add"
+      "changeable": 1
     },
     {
-      "key": "Akys",
-      "name": "🤩爱看┃🔥平安™",
+      "key": "Auete",
+      "name": "🏝奥特┃🔥平安™",
       "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cdn.teyonds.com/xp/爱看影视.json",
-      "jar": "https://gitee.com/cnlv/jk/raw/master/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
-    },
-    {
-      "key": "tvys",
-      "name": "📺TVB ┃🔥平安™",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cdn.teyonds.com/xp/TVB云播.json",
-		"jar": "https://gitee.com/cnlv/jk/raw/master/meow1.jar;md5;d1115d99527d75948d095085b1407add"
-    },
-	{
-		"key": "syys",
-		"name": "📽速映┃🔥平安™",
-		"type": 3,
-		"api": "csp_XBPQ",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "http://cdn.teyonds.com/xp/速映影视.json",
-		"jar": "https://gitee.com/cnlv/jk/raw/master/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
-	},
-    {
-      "key": "Shys",
-      "name": "🥯双黄┃🔥平安™",
-      "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_Auete",
+      "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "http://cdn.teyonds.com/xp/双黄影视.json",
-      "jar": "https://gitee.com/cnlv/jk/raw/master/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
+      "ext": "https://auete.pro/"
     },
     {
-      "key": "wwys",
-      "name": "🍽五五┃🔥平安™",
+      "key": "新6V",
+      "name": "🧲新6V┃🔥平安™",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_SixV",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cdn.teyonds.com/xp/五五影视.json",
-		"jar": "https://gitee.com/cnlv/jk/raw/master/meow1.jar;md5;d1115d99527d75948d095085b1407add"
+      "changeable": 0,
+      "ext": "https://www.xb6v.com/"
     },
     {
-      "key": "Hhys",
-      "name": "🦊黑狐┃🔥平安™",
+      "key": "短剧",
+      "name": "🌈上头┃🔥平安™",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_Djtt",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cdn.teyonds.com/xp/黑狐影视.json",
-		"jar": "https://gitee.com/cnlv/jk/raw/master/meow1.jar;md5;d1115d99527d75948d095085b1407add"
-    },
-	{
-		"key": "ggys",
-		"name": "👤光棍┃🔥平安™",
-		"type": 3,
-		"api": "csp_XBPQ",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "http://cdn.teyonds.com/xp/光棍影视.json",
-		"jar": "https://gitee.com/cnlv/jk/raw/master/meow1.jar;md5;d1115d99527d75948d095085b1407add"
-	},
-	{
-		"key": "wfys",
-		"name": "🥅网飞┃🔥平安™",
-		"type": 3,
-		"api": "MJS_wfys",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "http://cdn.teyonds.com/js/网飞影视.js",
-		"api": "http://cdn.teyonds.com/js/drpy2.min.js",
-		"jar": "https://gitee.com/cnlv/jk/raw/master/meow1.jar;md5;d1115d99527d75948d095085b1407add"
-	},
-	{
-		"key": "xsys",
-		"name": "🥍先生┃🔥平安™",
-		"type": 3,
-		"api": "MJS_dyxs",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "http://cdn.teyonds.com/js/电影先生.js",
-		"api": "http://cdn.teyonds.com/js/drpy2.min.js",
-		"jar": "https://gitee.com/cnlv/jk/raw/master/meow1.jar;md5;d1115d99527d75948d095085b1407add"
-	},
-	{
-		"key": "mays",
-		"name": "🍚米爱┃🔥平安™",
-		"type": 3,
-		"api": "MJS_mays",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "http://cdn.teyonds.com/js/米爱影视.js",
-		"api": "http://cdn.teyonds.com/js/drpy2.min.js",
-		"jar": "https://gitee.com/cnlv/jk/raw/master/meow1.jar;md5;d1115d99527d75948d095085b1407add"
-	},
-    {
-      "key": "qxys",
-      "name": "🌈秋霞┃🔥平安™",
-      "type": 3,
-      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cdn.teyonds.com/js/秋霞影视.js",
-		"jar": "https://gitee.com/cnlv/jk/raw/master/meow1.jar;md5;d1115d99527d75948d095085b1407add"
+      "changeable": 1
     },
     {
-      "key": "xcys",
-      "name": "✨星辰┃🔥平安™",
+      "key": "Dm84",
+      "name": "🚌巴士┃🔥平安™",
       "type": 3,
-      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "api": "csp_Dm84",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cdn.teyonds.com/js/星辰影视.js",
-		"jar": "https://gitee.com/cnlv/jk/raw/master/meow1.jar;md5;d1115d99527d75948d095085b1407add"
+      "changeable": 1
     },
     {
-      "key": "jpys",
-      "name": "🎞荐片┃🔥平安™",
+      "key": "Ysj",
+      "name": "🎀异界┃🔥平安™",
       "type": 3,
-      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "api": "csp_Ysj",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://cdn.teyonds.com/js/荐片影视.js",
-		"jar": "https://gitee.com/cnlv/jk/raw/master/meow1.jar;md5;d1115d99527d75948d095085b1407add"
+      "changeable": 1
     },
     {
-      "key": "shys",
-      "name": "💥骚火┃🔥平安™",
+      "key": "Anime1",
+      "name": "🐾日本┃🔥平安™",
       "type": 3,
-      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "api": "csp_Anime1",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cdn.teyonds.com/js/骚火影视.js",
-		"jar": "https://gitee.com/cnlv/jk/raw/master/meow1.jar;md5;d1115d99527d75948d095085b1407add"
+      "changeable": 1
     },
     {
-      "key": "zzys",
-      "name": "👶子子┃🔥平安™",
+      "key": "夸搜",
+      "name": "🐟夸搜┃🔥平安™",
       "type": 3,
-      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "api": "csp_PanSearch",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cdn.teyonds.com/js/子子影视.js",
-		"jar": "https://gitee.com/cnlv/jk/raw/master/meow1.jar;md5;d1115d99527d75948d095085b1407add"
+      "changeable": 0,
+      "ext": {
+        "pan": "quark",
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
     },
     {
-      "key": "vdys",
-      "name": "🔱VID ┃🔥平安™",
+      "key": "YiSo",
+      "name": "😹易搜┃🔥平安™",
       "type": 3,
-      "api": "csp_Vidhub2",
+      "api": "csp_YiSo",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-		"jar": "https://gitee.com/cnlv/jk/raw/master/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
     },
     {
-      "key": "vfys",
-      "name": "⚜VOF ┃🔥平安™",
+      "key": "PanSou",
+      "name": "🦊盘搜┃🔥平安™",
       "type": 3,
-      "api": "csp_Voflix",
+      "api": "csp_PanSou",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "ext": "https://www.voflix.me/",
-		"jar": "https://gitee.com/cnlv/jk/raw/master/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
+      "key": "PanSearch",
+      "name": "🙀盘Se┃🔥平安™",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
+      "key": "push_agent",
+      "name": "🛴手机┃🔥平安™",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 0,
+      "quickSearch": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
+      "key": "Bili",
+      "name": "🅱哔哔┃🔥平安™",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/bilibili.json"
+    },
+    {
+      "key": "Biliych",
+      "name": "🅱明星┃🔥平安™",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/biliych.json"
     },
 
+////////以上饭佬源，公众号引流
 
-
-
-
-
-
-
-
-
+////////以下香佬源
 
     {
         "key": "drpy_js_腾云驾雾",
@@ -669,6 +490,9 @@
         "ext": "https://gitdl.cn/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
     },
 
+////////以上香佬源
+
+////////以下肥猫源
     {
         "key": "csp_LiteApple",
         "name": "🍎苹果┃🔥平安™",
@@ -693,7 +517,6 @@
         "ext": "https://www.baipiaoys.com:9092/",
         "jar": "https://gitee.com/cnlv/jk/raw/master/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
     },
-    //{"key": "小点","name": "💥小点┃🔥平安™","type": 3,"api": "csp_Xdys","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"},
     {
         "key": "种子短剧",
         "name": "🍒短剧┃🔥平安™",
@@ -811,13 +634,6 @@
         "ext": "https://v.aikanbot.com"
     },
 
-//    {"key": "赞赞","name": "👍赞赞┃🔥平安™","type": 3,"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d","api": "csp_AppYsV2","ext": "http://111.230.51.151:2323/api.php/app/","searchable": 1,"quickSearch": 1,"changeable": 0},
-//    {"key": "zy_无尽资源","name": "🧬无尽┃🔥平安™","type": 1,"api": "https://api.wujinapi.me/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"categories": ["动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "香港剧", "台湾剧", "美国剧", "纪录片", "韩国剧", "日本剧", "海外剧", "大陆综艺", "日韩综艺", "港台综艺", "欧梅综艺", "国产动漫", "日韩动漫", "欧梅动漫", "悬疑片", "动画片", "犯罪片", "奇幻片", "邵氏电影", "泰剧", "体育赛事", "体育赛事"],"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"},
-//    {"key": "zy_天空资源","name": "✨天空┃🔥平安™","type": 1,"api": "https://tiankongzy.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"categories": ["动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "香港剧", "台湾剧", "美国剧", "纪录片", "悬疑片", "动画片", "犯罪片", "奇幻片", "韩国剧", "日本剧", "海外剧", "泰剧", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧梅动漫", "邵氏电影"],"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"},
-//    {"key": "zy_CK资源","name": "👮‍西克┃🔥平安™","type": 1,"api": "https://ckzy.me/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"categories": ["动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "悬疑片", "犯罪片", "奇幻片", "纪录片", "邵氏电影", "动画电影", "冒险片", "惊悚片", "国产剧", "香港剧", "台湾剧", "欧梅剧", "韩国剧", "日本剧", "海外剧", "泰剧", "英剧", "新马剧", "其他剧", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧梅动漫"],"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"},
-//    {"key": "熊掌","name": "🐻熊掌┃🔥平安™","type": 1,"api": "https://xzcjz.com/api.php/provide/vod","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"},
-//    {"key": "爱坤","name": "🕺坤坤┃🔥平安™","type": 1,"api": "https://ikunzyapi.com/api.php/provide/vod?","searchable": 1,"changeable": 1,"categories": ["电影", "连续剧", "综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "香港剧", "韩国剧", "欧美剧", "台湾剧", "日本剧", "海外剧", "泰国剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "国产动漫", "欧美动漫", "日韩动漫", "爽文短剧", "体育", "足球", "NBA", "CBA", "德甲", "意甲", "英超", "西甲", "法甲", "WCBA", "LPL"],"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"},
-//    {"key": "暴风","name": "🌬暴风┃🔥平安™","type": 1,"api": "https://app.bfzyapi.com/api.php/provide/vod/","searchable": 1,"filterable": 1,"quickSearch": 1,"categories": ["国产动漫", "日韩动漫", "欧美动漫", "海外动漫", "动画片", "国产剧", "韩国剧", "香港剧", "台湾剧", "欧美剧", "动作片", "科幻片", "喜剧片", "恐怖片", "战争片"],"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"},
     {
         "key": "js_nangua",
         "name": "🥒瓜瓜┃🔥平安™",
@@ -924,20 +740,9 @@
             "分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
         }
     },
-//    {"key": "蛋蛋","name": "🥚蛋蛋┃🔥平安™","type": 3,"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mrish9527/jk/main/Yoursmile.jar;md5;7948386C2C0C50DF45F25D7B4DE7B328","api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"嗅探词": "v3.toutiaovod.com#v3-dy-o.zjcdn#.m3u8#/tos/#.mp4","请求头": "手机#Referer$https://www.dandanju.cc/","分类url": "https://www.dandanju.cc/show/{cateId}--------{catePg}---2023.html","分类": "电影$1#剧集$2#动漫$4#综艺$4","数组": " <li class=\"col-md-6 col-sm-4 col-xs-3&&</li","搜索模式": "1","搜索url": "https://www.dandanju.cc/search/{wd}----------1---.html","搜索数组": "<li class=\"active clearfix&&</li"}},
 
-    //    {"key": "蛋蛋","name": "🥚蛋蛋┃🔥平安™","type": 3,"api": "csp_Cddys","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "https://gitee.com/cnlv/jk/raw/master/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"},
-    {
-      "key": "Shys",
-      "name": "🥚蛋蛋┃🔥平安™",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://cdn.teyonds.com/xp/双黄影视.json",
-      "jar": "https://gitee.com/cnlv/jk/raw/master/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
-    },
+    {"key": "蛋蛋","name": "🥚蛋蛋┃🔥平安™","type": 3,"api": "csp_Cddys","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "https://gitee.com/cnlv/jk/raw/master/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"},
+
     {
         "key": "孜孜",
         "name": "🥊孜孜┃🔥平安™",
@@ -971,7 +776,7 @@
             "分类": "电影$1#电视剧$2#港台剧$14#综艺$3#动漫$4#纪录片$22"
         }
     },
-//    {"key": "csp_YQKan","name": "🎉一起┃🔥平安™","type": 3,"api": "csp_YQKan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mrish9527/jk/main/Yoursmile.jar;md5;7948386C2C0C50DF45F25D7B4DE7B328"},
+
     {
         "key": "zy_金鹰资源",
         "name": "🔰金鹰┃🔥平安™",
@@ -1108,7 +913,7 @@
         "quickSearch": 1,
         "filterable": 1
     },
-    //{"key": "csp_Nmys","name": "🌾农民┃🔥平安™","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1},
+
     {
         "key": "csp_XYQHiker_农民影视",
         "name": "🧑🏻‍农民┃🔥平安™",
@@ -1119,7 +924,7 @@
         "filterable": 1,
         "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mrish9527/tv/main/nmys0607.json"
     },
-//    {"key": "糯米","name": "🍙糯米┃🔥平安™","type": 3,"api": "csp_Nmys","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mrish9527/jk/main/nmys.json","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"},
+
     {
         "key": "csp_Vidhub2",
         "name": "🎼Vid┃🔥平安™",
@@ -1147,10 +952,7 @@
         "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
         "ext": "http://dt.xn--yety82d.love/js/爱看.js"
     },
-//    {"key": "爱看","name": "💡爱看┃🔥平安™","type": 3,"api": "csp_AppMao","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "FbjDcUxPqpfNr0RPuV3f6q00fpJXAZtZEXlI9/f10UBGGozerC+JkBvO/bX4Ciy9c3mMnn8zmDIq","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"},
-//    {"key": "热播","name": "📺热播┃🔥平安™","type": 3,"api": "csp_AppTT","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "AO7TcBkd8I/B5wQc4Qma+pU=","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"},
-//    {"key": "萌米","name": "👀萌米┃🔥平安™","type": 3,"api": "csp_AppTT","timeout": 15,"playerType": 1,"ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"},
-//    {"key": "星奇","name": "💥星奇┃🔥平安™","type": 3,"api": "csp_AppMao","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTv2eOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXaDs+dIWMYiwf6td5CWTx6LfL6eTuiMhs2KU5Byw9F+4Y/AHBg4r+LEe+Hm4EM2d8X3ca5zHSj+kjmpXOiGDo4TalFqgTq67eggmthCbV2d131SKc03V+5gruudQQk/Tb9e4lg6SQhA9/5kWOOM/LRmkqIxSt6d0wpu7yKKh65enwKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5lYNmxnWeRnYuLhoZbDqslAfJzg","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"},
+
     {
         "key": "毛驴",
         "name": "🦙毛驴┃🔥平安™",
@@ -1229,7 +1031,6 @@
         "jar": "https://gitee.com/cnlv/jk/raw/master/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f"
     },
 
-//    {"key": "Lib","name": "🌟利播┃🔥平安™","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.libvio.pw/","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"},
     {
         "key": "csp_Auete",
         "name": "🦝Aue┃🔥平安™",
@@ -1239,7 +1040,7 @@
         "quickSearch": 1,
         "filterable": 1
     },
-//    {"key": "Auete","name": "🏝奥特┃🔥平安™","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://auete.pro/","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"},
+
     {
         "key": "量子资源",
         "name": "🔃量子┃🔥平安™",
@@ -1311,13 +1112,7 @@
         "quickSearch": 1,
         "filterable": 1
     },
-//    {"key": "短剧","name": "🌈上头┃🔥平安™","type": 3,"api": "csp_Djuu","searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"},
 
-//    {"key": "酷看","name": "💡酷看┃🔥平安™","type": 3,"api": "csp_Kkys","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"},
-//    {"key": "原创","name": "☀原创┃🔥平安™","type": 3,"api": "csp_YCyz","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"},
-//    {"key": "视觉","name": "👓视觉┃🔥平安™","type": 3,"api": "csp_Xinsj","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.80yy3.com/","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"},
-//    {"key": "Xinsj","name": "👓视觉┃🔥平安™","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.hdmyy.com/","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"},
-//    {"key": "追剧","name": "💥追剧┃🔥平安™","type": 3,"api": "csp_AppTT","playerType": 2,"ext": "AO7TcBkd8Jqf5UgA7xXA6dVlLcc=","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"},
     {
         "key": "csp_Bttoo",
         "name": "🔺Btto┃🔥平安™",
@@ -1493,9 +1288,6 @@
         "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
         "ext": "http://dt.xn--yety82d.love/js/007.js"
     },
-//    {"key": "奇优","name": "️💢奇优┃🔥平安™","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mrish9527/jk/main/奇优.json","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mrish9527/jk/main/Yoursmile.jar;md5;7948386C2C0C50DF45F25D7B4DE7B328"},
-
-//    {"key": "Freeok","name": "💢Fre┃🔥平安™","type": 3,"api": "csp_XBPQ","playerType": "2","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mrish9527/jk/main/Yoursmile.jar;md5;7948386C2C0C50DF45F25D7B4DE7B328","ext": {"分类url": "https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html;;ar1","分类": "电影&剧集&动漫&综艺&短剧&少儿","分类值": "1&2&3&4&12&5","副标题": "<div class=\"module-item-note\">&&</div>","嗅探词": "m3u8#.m3u8#.mp4#freeok.mp4#/obj/","线路数组": "data-dropdown-value=&&</div>[不包含:夸克]","导演": "导演：&&</div>","主演": "主演：&&</div>","简介": "<p>&&</p>"}},
 
     {
         "key": "csp_XBPQ秋霞影视",
@@ -1525,7 +1317,7 @@
         "playUrl": "json:https://jx.4kdv.com/?url="
     },
 
-//    {"key": "zxzj","name": "🍊在线┃🔥平安™","type": 3,"api": "csp_Zxzj","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.zxzjhd.com/","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"},
+
     {
         "key": "csp_Bdys",
         "name": "️💦哔嘀┃🔥平安™",
@@ -1545,7 +1337,7 @@
         "searchable": 1,
         "ext": "https://www.69mj.com/xgapp.php/v2/"
     },
-//    {"key": "csp_SP33","name": "📺三三┃🔥平安™","type": 3,"api": "csp_SP33","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"},
+
     {
         "key": "Qtv",
         "name": "🐧腾腾┃🔥平安™",
@@ -1774,7 +1566,7 @@
         "filterable": 0,
         "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
     },
-//    {"key": "PanSou","name": "🦊盘搜┃🔥平安™","type": 3,"api": "csp_PanSou","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"},
+
     {
         "key": "csp_AliPS",
         "name": "📀喵搜┃🔥平安™",
@@ -1874,7 +1666,7 @@
         "playerType": 1,
         "ext": "http://dt.xn--yety82d.love/js/B站.js"
     },
-//    {"key": "Biliych","name": "🎸明星┃🔥平安™","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/biliych.json","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mrish9527/jk/main/fty0530.jar;md5;e5331c586bf5835734be13338cecf00d"},
+
     {
         "key": "drpy_js_JRKAN直播",
         "name": "🏀JR球┃🔥平安™",
@@ -2065,7 +1857,7 @@
     },
     {
         "key": "公告",
-        "name": "⏱20240716",
+        "name": "⏱20240822",
         "type": 3,
         "api": "",
         "searchable": 0,
