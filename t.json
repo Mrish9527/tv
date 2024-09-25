@@ -27,6 +27,13 @@
   ],
   "sites": [
     {
+        "key": "js_豆瓣",
+        "name": "🔥平安™邀您畅享视界！",
+        "type": 3,
+        "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/jk/main/drpy1.js",
+        "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/jk/main/drpy2.js"
+    },
+    {
       "key": "js_豆瓣荐片",
       "name": "🔥平安邀您:畅享视界！",
       "type": 3,
