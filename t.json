@@ -1,16 +1,16 @@
 {
   "spider": "https://4622.kstore.space/xs/spider.jar",
   "wallpaper": "https://tk.illlt.com:759/api.php?type=电脑端-4K图片/4K游戏壁纸图片1080P",
-  "warningText": "---------Stronger敬告---------\n \n资源来自网络如侵权懒得删！\n \n国内ISP线路限制，不正常实属正常\n \n勿信广告和公众号引流\n \n---------且用且珍惜---------",
-  "logo": "https://gh.con.sh/https://raw.githubusercontent.com/Mrish9527/tv/main/palogo.png",
-  "homeLogo": "https://gh.con.sh/https://raw.githubusercontent.com/Mrish9527/tv/main/palogo.png",
+  "warningText": "---------Stronger敬告---------\n \n资源来自网络如侵权懒得删！\n \n国内ISP线路限制，不正常实属正常\n \n勿信广告和公众号引流\n \n---------且用且珍惜---------","logo":   "https://git.acwing.com/cnlv/tv/-/raw/main/palogo.png",
+  "homeLogo": "https://git.acwing.com/cnlv/tv/-/raw/main/palogo.png",
   "lives": [
     {
       "name": "直播1",
       "type": 0,
       "url": "https://4622.kstore.space/live.txt",
       "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "直播2",
@@ -106,21 +106,21 @@
     },
     {
       "key": "js_豆瓣荐片1",
-      "name": "🔥平安™视界 更新gith ⏱20241029",
+      "name": "🔥平安™视界 更新gith ⏱20241104",
       "type": 3,
-      "api": "https://gh.con.sh/https://raw.githubusercontent.com/Mrish9527/jk/main/drpy1.js",
-      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/Mrish9527/jk/main/drpy2.js"
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/jk/main/drpy1.js",
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/jk/main/drpy2.js"
     },
     {
       "key": "js_豆瓣荐片2",
-      "name": "🔥平安™视界 更新kst ⏱20241029",
+      "name": "🔥平安™视界 更新kst ⏱20241104",
       "type": 3,
       "api": "https://4622.kstore.space/douban/drpy1.js",
       "ext": "https://4622.kstore.space/douban/drpy2.js"
     },
     {
       "key": "js_豆瓣荐片3",
-      "name": "🔥平安™视界 更新Gitee ⏱20241029",
+      "name": "🔥平安™视界 更新Gitee ⏱20241104",
       "type": 3,
       "api": "https://gitee.com/cnlv/jk/raw/master/drpy1.js",
       "ext": "https://gitee.com/cnlv/jk/raw/master/drpy2.js"
@@ -152,19 +152,33 @@
       }
     },
     {
-      "key": "ganjue",
-      "name": "Stronger丨平安™",
+      "key": "csp_星辰",
+      "name": "STRONGER丨平安™",
       "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "http://47.99.102.252/js/App.js",
+      "api": "csp_XBPQ",
       "ext": {
-        "host": "http://43.248.100.147:9892/api.php/app/",
-        "*": [
-          "http://43.248.100.147:6068/KEY/XGJ/root/key/70.php?url=",
-          "https://jx.xiaofengtv.com/M3/json.php/?url=",
-          "http://112.74.124.75:8899/jiexi/api.php?url="
-        ]
+        "主页url": "http://www.xingchenwu.com/",
+        "简介": "平安™提醒✨勿信广告，避免受骗✨+<span class=\"detail-sketch\">&&</span>",
+        "导演": "导演：&&</p>",
+        "主演": "主演：&&</p>",
+        "影片状态": "状态：&&</p>",
+        "影片类型": "类型：&&</p>",
+        "数组": "stui-vodlist__thumb lazyload\"&&</a>",
+        "标题": "title=\"&&\"",
+        "副标题": "✨stronger蓝光✨+text-right\">&&</span>",
+        "图片": "data-original=\"&&\"",
+        "链接": "href=\"&&\"",
+        "搜索url": "http://www.xingchenwu.com/search.php;post;searchword={wd}",
+        "搜索数组": "stui-vodlist__thumb lazyload\"&&</a>",
+        "搜索标题": "title=\"&&\"",
+        "搜索副标题": "text-right\">&&</span>",
+        "搜索图片": "data-original=\"&&\"",
+        "搜索链接": "href=\"&&\"",
+        "线路数组": "<h3&&/h3>",
+        "线路标题": "stronger专享✨+>&&<",
+        "播放链接": "href='&&'",
+        "分类url": "http://www.xingchenwu.com/{cateId}/index{catePg}.html[http://www.xingchenwu.com/{cateId}/index.html];;ak",
+        "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman"
       }
     },
     {
@@ -178,7 +192,7 @@
       "ext": {
         "分类url": "https://citytv.cc/tv/dianying/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
         "分类": "电视剧$dianshiju#电影$dianying#动漫$dongman#综艺$zongyi#短剧$duanju",
-        "简介": "平安™提醒☪勿信广告，避免受骗☪+class=\"detail-sketch\">&&</span>",
+        "简介": "平安™提醒✨勿信广告，避免受骗✨+class=\"detail-sketch\">&&</span>",
         "线路数组": "#playlist&&</li>",
         "线路标题": "stronger💠+>&&</a>[排序:神马云播>阿里云播>]",
         "播放标题": ">&&<[不包含:1080P]"
@@ -534,7 +548,22 @@
         "欧美动漫"
       ]
     },
-
+    {
+      "key": "ganjue",
+      "name": "感觉丨平安™",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "http://47.99.102.252/js/App.js",
+      "ext": {
+        "host": "http://43.248.100.147:9892/api.php/app/",
+        "*": [
+          "http://43.248.100.147:6068/KEY/XGJ/root/key/70.php?url=",
+          "https://jx.xiaofengtv.com/M3/json.php/?url=",
+          "http://112.74.124.75:8899/jiexi/api.php?url="
+        ]
+      }
+    },
     {
       "key": "看客影视",
       "name": "看客丨平安™",
@@ -688,36 +717,7 @@
         "分类": "国产剧$21#香港剧$22#台湾剧$23#韩国剧$24#日本剧$25#欧美剧$26#泰国剧$27#海外剧$28#电影$1#动漫$4#综艺$3"
       }
     },
-    {
-      "key": "csp_星辰",
-      "name": "辰星丨平安™",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "主页url": "http://www.xingchenwu.com/",
-        "简介": "平安™提醒您请勿相信影片中的广告，以免上当受骗！+<span class=\"detail-sketch\">&&</span>",
-        "导演": "导演：&&</p>",
-        "主演": "主演：&&</p>",
-        "影片状态": "状态：&&</p>",
-        "影片类型": "类型：&&</p>",
-        "数组": "stui-vodlist__thumb lazyload\"&&</a>",
-        "标题": "title=\"&&\"",
-        "副标题": "✨stronger蓝光✨+text-right\">&&</span>",
-        "图片": "data-original=\"&&\"",
-        "链接": "href=\"&&\"",
-        "搜索url": "http://www.xingchenwu.com/search.php;post;searchword={wd}",
-        "搜索数组": "stui-vodlist__thumb lazyload\"&&</a>",
-        "搜索标题": "title=\"&&\"",
-        "搜索副标题": "text-right\">&&</span>",
-        "搜索图片": "data-original=\"&&\"",
-        "搜索链接": "href=\"&&\"",
-        "线路数组": "<h3&&/h3>",
-        "线路标题": "stronger专享✨+>&&<",
-        "播放链接": "href='&&'",
-        "分类url": "http://www.xingchenwu.com/{cateId}/index{catePg}.html[http://www.xingchenwu.com/{cateId}/index.html];;ak",
-        "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman"
-      }
-    },
+
     {
       "key": "fxzWP",
       "name": "君君丨平安™",
@@ -915,6 +915,13 @@
       "filterable": 1,
       "ext": "http://www.tvyun01.com/"
     },
+
+
+
+
+
+
+
     {
       "key": "无忧短剧",
       "name": "无忧丨平安™",
@@ -1058,8 +1065,64 @@
       "api": "csp_AppZJ",
       "searchable": 1,
       "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "洽洽影视",
+      "name": "洽洽｜平安™",
+      "type": 3,
+      "api": "csp_AppGZ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "兄弟影视",
+      "name": "兄弟｜平安™",
+      "type": 3,
+      "api": "csp_AppGetApp",
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://z.kzjtv.com/"
+      "ext": "KhYl01Kekjo9vLs09V+rOtv/6QaOFwdQp2ne4h22GLkT99eCXh9SJ/lGZNM8zgk1OnFWx0zBQ9Y/9mAjQB67LaEp7Yj7w9SYBEjFbdPjKy3EHp7uBIHXVI7/dZ4r/dJapz6ihlWwqY2KlGuarL/+9suxO4ZJFOg1OxN+dTrTbi2Muff1CmBkNfrY+s4eQhuLBs4vVhslYH/yyPXePZ1AgNT8ZuBCcfE2LpJ19OKKPIvs+pt4Z/yzVA=="
+    },
+    {
+      "key": "追梦影视",
+      "name": "追梦｜平安™",
+      "type": 3,
+      "api": "csp_App",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "KhYJ00ye42lrgMpNiF+rOvz59ga1R1FQv2eU9xm2Iu1VrOOAQhMKd/5Ef8cogkk0Y3RJ20zdTsh6uytEQhi5H+x3q9ykk86fAlKxZsD4JSOVC5vqBIHXLUdbmRnBIXWxcZBIXFtvDsnRlRrdhe15op6nVQPj3jTftN2v9+IDRS2auZS8W1hoOL2jvcoiUEzLToN7FV14amT6puaPWMkj34WXPOALOvIkDM57pLfeccPg9oZFJOvob2S7NE55hsAbY0y7l63JB0ukoDmLq9q4YRSh/M6i0i8XMVk8bLFggs+R73Ld+p5bipdnmmrRg3qMu5dVCFuyfllyKl0ZJddNw4AFQExqghU1xo0RpCm1FgL+FmBLMdYCxM+fNYaF6blwRnzcfPct0XtmXoB9"
+    },
+    {
+      "key": "酷酷影视",
+      "name": "酷酷｜平安™",
+      "type": 3,
+      "api": "csp_App",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "KhYJ00ye42lr+7UsoxLsfea0p0H5SUkT7Tv/+ACyPvFQ+ozQDB0SI/NCeN59w0RiNzIKjBHQR9I/4GBIAlWmFKcvyM+yqtiPTwaxfs74YG+PHrb7VfKDLVFb0luKJl2gZ5pIVjIwVQNUCt5TAXutZxNBtlKGin+L/4vCsOIjR2r16dqyQwlpOKySq4NGGkKeA48tTxR+emOxn/qGPt5xjInFeLJXMvYxdp47pOKOA4Oj4LJnJ+ezEzScDoT2IASN0Rvl2ZneGEGkqlDU8NquYUP/svq1zScEYCpobKdg0ILB7Hba+5cMwtlnjGiHyCaM9dx+z+cVzD9cSTo/aL5gSoAPT4QzkFxezSARli9nVDmnS0MrY/NhiexS8AE+1et9"
+    },
+    {
+      "key": "忍者影视",
+      "name": "忍者｜平安™",
+      "type": 3,
+      "api": "csp_AppRZ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "凡人影视",
+      "name": "凡人｜平安™",
+      "type": 3,
+      "api": "csp_AppFr",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "大米星球",
@@ -1071,13 +1134,25 @@
       "filterable": 1
     },
     {
-      "key": "笙歌影视",
-      "name": "笙歌丨平安™",
+      "key": "大米星球",
+      "name": "Ping｜平安™",
       "type": 3,
-      "api": "csp_AppYY",
+      "api": "https://4622.kstore.space/xs/JS/drpy2.min.js",
+      "ext": "https://4622.kstore.space/xs/JS/APPV2.js?type=url&params=https://dmz8k4.wiki"
+    },
+    {
+      "key": "西瓜视频",
+      "name": "西瓜｜平安™",
+      "type": 3,
+      "api": "csp_AmuXiguaV2",
       "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      }
     },
     {
       "key": "采集之王",
@@ -1224,13 +1299,49 @@
       "filterable": 1
     },
     {
-      "key": "看看影视",
-      "name": "看看丨平安™",
+      "key": "金牌影视",
+      "name": "金牌｜平安™",
       "type": 3,
-      "api": "csp_WebIV",
+      "api": "csp_WebJP",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
+    },
+    {
+      "key": "哔嘀影视",
+      "name": "哔嘀｜平安™",
+      "type": 3,
+      "api": "csp_WebYJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "铁剧影视",
+      "name": "铁剧｜平安™",
+      "type": 3,
+      "api": "csp_WebBr",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "真心影视",
+      "name": "真心｜平安™",
+      "type": 3,
+      "api": "csp_WebGZ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "耐看影视",
+      "name": "耐看｜平安™",
+      "type": 3,
+      "api": "csp_WebNK",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "视频库",
@@ -1354,7 +1465,7 @@
     },
     {
       "key": "芒果视频",
-      "name": "忙过丨平安™",
+      "name": "芒果丨平安™",
       "type": 3,
       "api": "https://4622.kstore.space/xs/JS/drpy2.min.js",
       "ext": "https://4622.kstore.space/xs/JS/芒果视频.js"
@@ -1388,16 +1499,6 @@
       "ext": "https://4622.kstore.space/xs/JS/畅梦影视.js"
     },
     {
-      "key": "五五影视",
-      "name": "五五丨平安™",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://4622.kstore.space/xs/XBPQ/五五影视.json"
-    },
-    {
       "key": "子子影视",
       "name": "子子丨平安™",
       "type": 3,
@@ -1418,13 +1519,13 @@
       "ext": "https://4622.kstore.space/xs/XYQHiker/奇趣影视.json"
     },
     {
-      "key": "蚂蚁资源",
-      "name": "蚂蚁丨平安™",
-      "type": 1,
-      "api": "http://dsakf23665.com/api.php/provide/vod/from/NBY",
+      "key": "1905",
+      "name": "1905｜平安™",
+      "type": 3,
+      "api": "csp_Web1905",
       "searchable": 1,
-      "changeable": 1,
-      "playUrl": "json:http://121.62.61.51:6888//api//?key=qMdg1EDXPe9NH3bG0z&url="
+      "quickSearch": 0,
+      "filterable": 0
     },
     {
       "key": "红牛资源",
@@ -1877,18 +1978,33 @@
       }
     },
     {
+      "key": "腾讯弹幕",
+      "name": "腾讯｜弹幕",
+      "type": 3,
+      "api": "https://4622.kstore.space/xs/JS/drpy2.min.js",
+      "ext": "https://4622.kstore.space/xs/JS/腾讯弹幕.js"
+    },
+    {
+      "key": "优酷弹幕",
+      "name": "优酷｜弹幕",
+      "type": 3,
+      "api": "https://4622.kstore.space/xs/JS/drpy2.min.js",
+      "ext": "https://4622.kstore.space/xs/JS/优酷弹幕.js"
+    },
+    {
+      "key": "完美弹幕",
+      "name": "完美｜弹幕",
+      "type": 3,
+      "api": "https://4622.kstore.space/xs/JS/drpy2.min.js",
+      "ext": "https://4622.kstore.space/xs/JS/完美弹幕.js"
+    },
+
+    {
       "key": "悠悠弹幕",
       "name": "悠悠｜弹幕",
       "type": 3,
       "api": "https://4622.kstore.space/xs/JS/drpy2.min.js",
       "ext": "https://4622.kstore.space/xs/JS/悠悠弹幕.js"
-    },
-    {
-      "key": "星河弹幕",
-      "name": "星河｜弹幕",
-      "type": 3,
-      "api": "https://4622.kstore.space/xs/JS/drpy2.min.js",
-      "ext": "https://4622.kstore.space/xs/JS/星河弹幕.js"
     },
     {
       "key": "小熊弹幕",
@@ -1910,6 +2026,13 @@
       "type": 3,
       "api": "https://4622.kstore.space/xs/JS/drpy2.min.js",
       "ext": "https://4622.kstore.space/xs/JS/小虎斑弹幕.js"
+    },
+    {
+      "key": "素白白弹幕",
+      "name": "素白白｜弹幕",
+      "type": 3,
+      "api": "https://4622.kstore.space/xs/JS/drpy2.min.js",
+      "ext": "https://4622.kstore.space/xs/JS/素白白弹幕.js"
     },
     {
       "key": "三六零弹幕",
@@ -1948,18 +2071,6 @@
       }
     },
     {
-      "key": "JOJO弹幕",
-      "name": "JOJO｜弹幕",
-      "type": 3,
-      "api": "csp_Jiohub",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
-    {
       "key": "荐片弹幕",
       "name": "荐片丨弹幕",
       "type": 3,
@@ -1986,8 +2097,15 @@
       }
     },
     {
+      "key": "四维空间弹幕",
+      "name": "四维空间｜4K弹幕",
+      "type": 3,
+      "api": "https://4622.kstore.space/xs/JS/drpy2.min.js",
+      "ext": "https://4622.kstore.space/xs/JS/四维空间弹幕.js"
+    },
+    {
       "key": "玩偶弹幕",
-      "name": "玩哥｜4K弹幕",
+      "name": "玩偶｜4K弹幕",
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
@@ -2415,7 +2533,7 @@
     },
     {
       "key": "BT天堂",
-      "name": "鞭笞丨平安™",
+      "name": "变态丨平安™",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -3286,11 +3404,13 @@
     {
       "name": "XG蓝光",
       "url": "http://43.248.100.147:6068/bba/bbajson.php?url=",
-      "flag": [
-        "BBA"
-      ],
-      "header": {
-        "User-Agent": "Dalvik/2.1.0"
+      "ext": {
+        "flag": [
+          "BBA"
+        ],
+        "header": {
+          "User-Agent": "Dalvik/2.1.0"
+        }
       }
     },
     {
