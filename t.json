@@ -106,21 +106,21 @@
     },
     {
       "key": "js_豆瓣荐片1",
-      "name": "🔥平安™视界 更新gith ⏱20241104",
+      "name": "🔥平安™视界 更新gith ⏱20241105",
       "type": 3,
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/jk/main/drpy1.js",
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Mrish9527/jk/main/drpy2.js"
     },
     {
       "key": "js_豆瓣荐片2",
-      "name": "🔥平安™视界 更新kst ⏱20241104",
+      "name": "🔥平安™视界 更新kst ⏱20241105",
       "type": 3,
       "api": "https://4622.kstore.space/douban/drpy1.js",
       "ext": "https://4622.kstore.space/douban/drpy2.js"
     },
     {
       "key": "js_豆瓣荐片3",
-      "name": "🔥平安™视界 更新Gitee ⏱20241104",
+      "name": "🔥平安™视界 更新Gitee ⏱20241105",
       "type": 3,
       "api": "https://gitee.com/cnlv/jk/raw/master/drpy1.js",
       "ext": "https://gitee.com/cnlv/jk/raw/master/drpy2.js"
@@ -153,7 +153,7 @@
     },
     {
       "key": "csp_星辰",
-      "name": "STRONGER丨平安™",
+      "name": "Stronger丨平安™",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -247,7 +247,7 @@
     },
     {
       "key": "木耳",
-      "name": "木耳丨平安™",
+      "name": "木耳丨有广丨平安™",
       "type": 1,
       "api": "https://json02.heimuer.xyz/api.php/provide/vod",
       "searchable": 1,
@@ -659,7 +659,7 @@
     },
     {
       "key": "zj",
-      "name": "8K丨平安™",
+      "name": "8K丨有广丨平安™",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -669,7 +669,7 @@
     },
     {
       "key": "人人影视",
-      "name": "人人丨平安™",
+      "name": "人人丨有广丨平安™",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -1002,16 +1002,6 @@
       "filterable": 1
     },
     {
-      "key": "追剧猫",
-      "name": "剧猫丨平安™",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jingxiang.lingutv.cn/api.php/app/"
-    },
-    {
       "key": "酷影视",
       "name": "酷影丨平安™",
       "type": 3,
@@ -1125,7 +1115,7 @@
       "filterable": 1
     },
     {
-      "key": "大米星球",
+      "key": "大米星球1",
       "name": "平平丨平安™",
       "type": 3,
       "api": "csp_AppDaMi",
@@ -2022,14 +2012,14 @@
     },
     {
       "key": "小虎斑弹幕",
-      "name": "小虎斑｜弹幕",
+      "name": "小虎｜弹幕",
       "type": 3,
       "api": "https://4622.kstore.space/xs/JS/drpy2.min.js",
       "ext": "https://4622.kstore.space/xs/JS/小虎斑弹幕.js"
     },
     {
       "key": "素白白弹幕",
-      "name": "素白白｜弹幕",
+      "name": "素白｜弹幕",
       "type": 3,
       "api": "https://4622.kstore.space/xs/JS/drpy2.min.js",
       "ext": "https://4622.kstore.space/xs/JS/素白白弹幕.js"
@@ -2095,13 +2085,6 @@
         "site": "https://www.yjys05.com",
         "danmu": true
       }
-    },
-    {
-      "key": "四维空间弹幕",
-      "name": "四维空间｜4K弹幕",
-      "type": 3,
-      "api": "https://4622.kstore.space/xs/JS/drpy2.min.js",
-      "ext": "https://4622.kstore.space/xs/JS/四维空间弹幕.js"
     },
     {
       "key": "玩偶弹幕",
