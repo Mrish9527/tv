@@ -69,7 +69,7 @@
     },
     {
       "key": "爱坤",
-      "name": "坤坤丨平安™",
+      "name": "强哥丨平安™",
       "type": 1,
       "api": "https://ikunzyapi.com/api.php/provide/vod?",
       "searchable": 1,
@@ -197,43 +197,7 @@
       "api": "csp_Wwys",
       "ext": "https://www.wwgz.cn/"
     },
-    {
-      "key": "爱坤",
-      "name": "坤坤丨平安™",
-      "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod?",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "古装片",
-        "悬疑片",
-        "犯罪片",
-        "灾难片",
-        "国产剧",
-        "香港剧",
-        "韩国剧",
-        "欧美剧",
-        "台湾剧",
-        "日本剧",
-        "海外剧",
-        "泰国剧",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺",
-        "国产动漫",
-        "欧美动漫",
-        "日韩动漫",
-        "爽文短剧"
-      ]
-    },
+
     {
       "key": "Auete",
       "name": "Aue丨平安™",
@@ -247,7 +211,7 @@
     },
     {
       "key": "小马影视",
-      "name": "强哥丨平安™",
+      "name": "小马丨有广丨平安™",
       "type": 3,
       "api": "csp_AppYsV2",
       "playerType": 2,
