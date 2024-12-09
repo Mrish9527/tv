@@ -10,13 +10,10 @@
     "sites": [
     {
       "key": "js豆瓣",
-      "name": "🔥平安™邀您畅享视界！",
-      "type": 3,
-      "api": "https://jihulab.com/cnlv/tv/-/raw/main/js/drpy2.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://jihulab.com/cnlv/tv/-/raw/main/js/drpy.js"
+      "name": "🔥平安丨视界",
+        "type": 3,
+        "api": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/refs/heads/main/drpy1.js",
+        "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/refs/heads/main/drpy2.js"
     },
 
 
