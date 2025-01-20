@@ -1,7 +1,7 @@
 {
 // "spider": "https://cloud.wujiyan.cc/f/zWz2in/spider.jar",
 // "spider": "https://git.acwing.com/cnlv/xs/-/raw/main/spider.jar",
-    "spider": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/spider.jar",
+    "spider": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/spider.jar",
   "wallpaper": "https://tk.illlt.com:759/api.php?type=电脑端-4K图片/4K游戏壁纸图片1080P",
   "warningText": "---------Stronger敬告---------\n \n资源来自网络如侵权懒得删！\n \n国内ISP线路限制，不正常实属正常\n \n勿信广告和公众号引流\n \n---------且用且珍惜---------",
   "logo":   "https://git.acwing.com/cnlv/tv/-/raw/main/palogo.png",
@@ -12,8 +12,8 @@
       "key": "js豆瓣",
       "name": "🔥平安丨视界",
         "type": 3,
-        "api": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/refs/heads/main/drpy1.js",
-        "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/jk/refs/heads/main/drpy2.js"
+        "api": "https://raw.githubusercontents.com/Mrish9527/jk/refs/heads/main/drpy1.js",
+        "ext": "https://raw.githubusercontents.com/Mrish9527/jk/refs/heads/main/drpy2.js"
     },
 
     {
@@ -785,8 +785,8 @@
             "key": "天堂短剧",
             "name": "天堂丨平安™",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/天堂短剧.js"
+            "api": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/天堂短剧.js"
         },
         {
             "key": "爱你短剧",
@@ -796,7 +796,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/爱你短剧.json"
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/爱你短剧.json"
         },
 
 
@@ -810,7 +810,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/河马短剧.json"
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/河马短剧.json"
         },
         {
             "key": "短剧屋",
@@ -820,7 +820,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/短剧屋.json"
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/短剧屋.json"
         },
         {
             "key": "韩小圈",
@@ -938,8 +938,8 @@
             "key": "大米星球",
             "name": "大米丨平安™",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/APPV2.js?type=url&params=https://dmz8k4.wiki"
+            "api": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/APPV2.js?type=url&params=https://dmz8k4.wiki"
         },
         {
             "key": "西瓜视频",
@@ -959,10 +959,10 @@
             "key": "采集之王",
             "name": "采集｜合集",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
+            "api": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/采集之王.js?type=url&params=.https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/采集静态.json$1$1"
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/采集之王.js?type=url&params=.https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/采集静态.json$1$1"
         },
         {
             "key": "厂长资源",
@@ -1179,7 +1179,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/新视觉.json"
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/新视觉.json"
         },
         {
             "key": "电影牛",
@@ -1189,98 +1189,98 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/电影牛.json"
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/电影牛.json"
         },
         {
             "key": "爱奇艺",
             "name": "奇艺丨平安™",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/爱奇艺.js"
+            "api": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/爱奇艺.js"
         },
         {
             "key": "三六零",
             "name": "三六丨平安™",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/三六零.js"
+            "api": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/三六零.js"
         },
         {
             "key": "剧圈圈",
             "name": "圈圈丨平安™",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/剧圈圈.js"
+            "api": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/剧圈圈.js"
         },
         {
             "key": "追剧迷",
             "name": "剧迷丨平安™",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/追剧迷.js"
+            "api": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/追剧迷.js"
         },
         {
             "key": "看了么",
             "name": "看么丨平安™",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/看了么.js"
+            "api": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/看了么.js"
         },
         {
             "key": "茶杯狐",
             "name": "茶杯丨平安™",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/茶杯狐.js"
+            "api": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/茶杯狐.js"
         },
         {
             "key": "魔力高清",
             "name": "魔力丨平安™",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/魔力高清.js"
+            "api": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/魔力高清.js"
         },
         {
             "key": "腾讯视频",
             "name": "腾讯丨平安™",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/腾讯视频.js"
+            "api": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/腾讯视频.js"
         },
         {
             "key": "优酷视频",
             "name": "优酷丨平安™",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/优酷视频.js"
+            "api": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/优酷视频.js"
         },
         {
             "key": "芒果视频",
             "name": "芒果丨平安™",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/芒果视频.js"
+            "api": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/芒果视频.js"
         },
         {
             "key": "搜狗视频",
             "name": "搜狗丨平安™",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/搜狗视频.js"
+            "api": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/搜狗视频.js"
         },
         {
             "key": "哔哩视频",
             "name": "哔哩丨平安™",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/哔哩视频.js"
+            "api": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/哔哩视频.js"
         },
         {
             "key": "碟调影视",
             "name": "碟调丨平安™",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/碟调影视.js"
+            "api": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/碟调影视.js"
         },
         {
             "key": "奇趣影视",
@@ -1290,7 +1290,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/奇趣影视.json"
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/奇趣影视.json"
         },
         {
             "key": "1905",
@@ -1531,120 +1531,120 @@
             "key": "56动漫",
             "name": "五六丨平安™",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/56动漫.js"
+            "api": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/56动漫.js"
         },
         {
             "key": "58动漫",
             "name": "五八丨平安™",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/58动漫.js"
+            "api": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/58动漫.js"
         },
         {
             "key": "NT动漫",
             "name": "恩替丨平安™",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/NT动漫.js"
+            "api": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/NT动漫.js"
         },
         {
             "key": "Anime1",
             "name": "动物丨平安™",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/Anime1.js"
+            "api": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/Anime1.js"
         },
         {
             "key": "动画片",
             "name": "动画丨平安™",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/动画片大全.js"
+            "api": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/动画片大全.js"
         },
         {
             "key": "路漫漫",
             "name": "漫漫丨平安™",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/路漫漫.js"
+            "api": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/路漫漫.js"
         },
         {
             "key": "动漫岛",
             "name": "动漫丨平安™",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/动漫岛.js"
+            "api": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/动漫岛.js"
         },
         {
             "key": "去看吧",
             "name": "看吧丨平安™",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/去看吧.js"
+            "api": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/去看吧.js"
         },
         {
             "key": "爱弹幕",
             "name": "爱幕丨平安™",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/爱弹幕.js"
+            "api": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/爱弹幕.js"
         },
         {
             "key": "异世界",
             "name": "异世丨平安™",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/异世界.js"
+            "api": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/异世界.js"
         },
         {
             "key": "好看动漫",
             "name": "好看丨平安™",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/好看动漫.js"
+            "api": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/好看动漫.js"
         },
         {
             "key": "奇米动漫",
             "name": "奇米丨平安™",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/奇米动漫.js"
+            "api": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/奇米动漫.js"
         },
         {
             "key": "怡萱动漫",
             "name": "怡萱丨平安™",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/怡萱动漫.js"
+            "api": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/怡萱动漫.js"
         },
         {
             "key": "花子动漫",
             "name": "花子丨平安™",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/花子动漫.js"
+            "api": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/花子动漫.js"
         },
         {
             "key": "动漫巴士",
             "name": "巴士丨平安™",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/动漫巴士.js"
+            "api": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/动漫巴士.js"
         },
         {
             "key": "樱花动漫",
             "name": "樱花丨平安™",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/樱花动漫.js"
+            "api": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/樱花动漫.js"
         },
         {
             "key": "大米动漫",
             "name": "大米丨平安™",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/大米动漫.js"
+            "api": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/大米动漫.js"
         },
         {
             "key": "南瓜弹幕",
@@ -1755,43 +1755,43 @@
             "key": "腾讯弹幕",
             "name": "腾讯丨平安™",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/腾讯弹幕.js"
+            "api": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/腾讯弹幕.js"
         },
         {
             "key": "优酷弹幕",
             "name": "优酷丨平安™",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/优酷弹幕.js"
+            "api": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/优酷弹幕.js"
         },
         {
             "key": "悠悠弹幕",
             "name": "悠悠丨平安™",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/悠悠弹幕.js"
+            "api": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/悠悠弹幕.js"
         },
         {
             "key": "小熊弹幕",
             "name": "小熊丨平安™",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/小熊弹幕.js"
+            "api": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/小熊弹幕.js"
         },
         {
             "key": "巨人弹幕",
             "name": "巨人丨平安™",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/巨人弹幕.js"
+            "api": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/巨人弹幕.js"
         },
         {
             "key": "小虎斑弹幕",
             "name": "小虎丨平安™",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/小虎斑弹幕.js"
+            "api": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/小虎斑弹幕.js"
         },
         {
             "key": "三六零弹幕",
@@ -2225,14 +2225,14 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/音范丝.json"
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/音范丝.json"
         },
         {
             "key": "磁力熊",
             "name": "磁力丨平安™",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/磁力熊.js"
+            "api": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/磁力熊.js"
         },
         {
             "key": "美剧迷",
@@ -2260,7 +2260,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/电影港.json"
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/电影港.json"
         },
         {
             "key": "布谷TV",
@@ -2270,7 +2270,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/布谷TV.json"
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/布谷TV.json"
         },
         {
             "key": "BT天堂",
@@ -2280,7 +2280,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/BT天堂.json"
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/BT天堂.json"
         },
         {
             "key": "Mp4电影",
@@ -2299,7 +2299,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/哔嘀影视.json"
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/哔嘀影视.json"
         },
         {
             "key": "酷吧电影",
@@ -2378,7 +2378,7 @@
             "indexs": 0,
             "ext": {
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "share": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/alishare.txt"
+                "share": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/alishare.txt"
             },
             "style": {
                 "type": "list"
@@ -2388,8 +2388,8 @@
             "key": "短剧合集",
             "name": "短剧｜合集",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/短剧合集.js",
+            "api": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/drpy2.min.js",
+            "ext": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/短剧合集.js",
             "style": {
                 "type": "list"
             }
@@ -2480,14 +2480,9 @@
     ],
     "parses": [
         {
-            "name": "聚合",
-            "type": 3,
-            "url": "Demo"
-        },
-        {
-            "name": "推荐",
-            "type": 1,
-            "url": "https://jxjson.icu/neibu.php?url=",
+            "name": "臻享",
+            "type": "1",
+            "url": "https://zy.qiaoji8.com/gouzi.php?url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -2514,98 +2509,216 @@
             }
         },
         {
-            "name": "臻享",
-            "type": "1",
-            "url": "http://43.248.100.147:6068/KEY/XGJ/root/key/70.php?url=",
+            "name": "优选",
+            "type": 1,
+            "url": "http://1.94.221.189:88/algorithm.php?url=",
             "ext": {
                 "flag": [
-                    "youku",
                     "qq",
+                    "腾讯",
                     "qiyi",
-                    "bilibili",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
                     "mgtv",
-                    "pptv",
-                    "xigua",
-                    "NBY",
-                    "ETH-",
-                    "BBA",
-                    "TX",
-                    "MXTV",
-                    "mytv",
-                    "nmys",
-                    "yhdm",
-                    "BNNB",
-                    "letu",
-                    "DJWB",
-                    "DJWX",
-                    "DJWT",
-                    "duanju"
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "bilibili",
+                    "1905"
                 ],
                 "header": {
-                    "User-Agent": "Dalvik/2.1.0"
+                    "User-Agent": "okhttp/4.9.1"
+                }
+            }
+        },
+
+        {
+            "name": "至臻",
+            "type": 1,
+            "url": "http://yunhai.qijiyun.vip/home/api?type=ys&uid=177259&key=dijnouxKNOQSTUWXY5&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "bilibili",
+                    "1905"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
                 }
             }
         },
         {
+            "name": "HGvip",
+            "type": 1,
+            "url": "http://1.94.221.189:88/algorithm.php?url=",
+            "ext": {
+                "flag": [
+                    "hgvip"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
+                }
+            }
+        },
+        {
+            "name": "皮皮虾",
+            "type": "1",
+            "url": "http://jiexi.52ppx.top/lxjson.php?url=",
+            "ext": {
+                "flag": [
+                    "PPXLG",
+                    "皮皮虾4K"
+                ]
+            }
+        },
+        {
+            "name": "无双",
+            "type": 0,
+            "url": " http://103.117.123.193:1980/players/?url=",
+            "ext": {
+                "flag": [
+                    "mgtv",
+                    "芒果",
+                    "RY",
+                    "VIP线路"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
+                }
+            }
+        },
+   
+
+
+
+ {
+      "name": "平安",
+      "type": 1,
+      "url": "http://122.228.84.103:7777/api/?key=4Dk5tdayvY6NZufEMG&url="
+    },
+    {
+      "name": "平平",
+      "type": 1,
+      "url": "http://110.42.7.182:880/api/?key=7e84f07dc78fbb3406d64a1ab7d966b3&url="
+    },
+    {
+      "name": "安安",
+      "type": 1,
+      "url": "http://43.136.176.188:91/api/?key=4ef232e96172b0bda78d393c695fe7c4&url="
+    },
+    {
+      "name": "qiyi[官源]",
+      "type": 1,
+      "url": "http://39.104.230.177:1122/lxjx/myyk.php?url="
+    },
+    {
+      "name": "肥猫",
+      "type": 1,
+      "url": "http://xn--ihqu10cn4c.xn--z7x900a.live/jx.php?id=2&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "tucheng",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "yzm",
+          "aliyun",
+          "RJuMao",
+          "bilibili",
+          "1905",
+          "xinvip",
+          "XAL",
+          "qiqi",
+          "XALS",
+          "YuMi-vip"
+        ]
+      }
+    },
+     
+
+
+
+   {
             "name": "线路1",
-            "type": 0,
-            "url": "https://jx.xmflv.com/?url=",
-            "ext": {
-                "header": {
-                    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-                }
-            }
-        },
-        {
-            "name": "线路2",
-            "type": 0,
-            "url": "https://jx.quankan.app/?url=",
-            "ext": {
-                "header": {
-                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-                }
-            }
-        },
-        {
-            "name": "线路3",
-            "type": 0,
-            "url": "https://jx.yparse.com/index.php?url=",
-            "ext": {
-                "header": {
-                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-                }
-            }
-        },
-        {
-            "name": "线路4",
-            "type": 0,
-            "url": "https://jx.aidouer.net/?url=",
-            "ext": {
-                "header": {
-                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
-                    "referer": "https://jiejie.uk/"
-                }
-            }
-        },
-        {
-            "name": "线路5",
             "type": 0,
             "url": "https://www.8090g.cn/?url="
         },
         {
-            "name": "线路6",
-            "type": 0,
-            "url": "https://jx.yangtu.top?url="
-        },
-        {
-            "name": "线路7",
+            "name": "线路2",
             "type": 0,
             "url": "https://jx.m3u8.tv/jiexi/?url="
         },
         {
-            "name": "线路8",
+            "name": "线路3",
             "type": 0,
             "url": "https://www.ckplayer.vip/jiexi/?url="
+        },
+        {
+            "name": "线路4",
+            "type": 0,
+            "url": "https://yparse.ik9.cc/index.php?url="
+        },
+        {
+            "name": "线路5",
+            "type": 0,
+            "url": "https://bd.jx.cn/?url="
+        },
+        {
+            "name": "线路6",
+            "type": 0,
+            "url": "https://jx.yparse.com/index.php?url="
+        },
+        {
+            "name": "线路7",
+            "type": 0,
+            "url": "https://jx.hls.one/?url="
+        },
+        {
+            "name": "线路8",
+            "type": 0,
+            "url": "https://pl.a6club.com/player/analysis.php?v="
+        },
+        {
+            "name": "线路9",
+            "type": 0,
+            "url": "https://jx.2s0.cn/player/?url="
+        },
+        {
+            "name": "线路10",
+            "type": 0,
+            "url": "https://jx.nnxv.cn/tv.php?url="
         }
     ],
     "rules": [
@@ -2775,7 +2888,7 @@
       "name": "直播线路-平安自用",
       "type": 0,
       "playerType": 1,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/Mrish9527/xs/refs/heads/main/live.txt",
+      "url": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/live.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
