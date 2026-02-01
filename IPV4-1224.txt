@@ -11,25 +11,6 @@
 👉祝你观影愉快,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000429
 
 📡丨央视频道,#genre#
-CCTV1,https://migu.188766.xyz/?migutoken=28d3f20da73f59999fb30688651d35f3&id=CCTV1&type=yy
-CCTV2,https://migu.188766.xyz/?migutoken=fac197b729b561a0d71679a4df5e96bf&id=CCTV2&type=yy
-CCTV3,https://migu.188766.xyz/?migutoken=958d443c6a8eb619c6520d53058e6ad6&id=CCTV3&type=yy
-CCTV4,https://migu.188766.xyz/?migutoken=ed11eec74d9e9f78c44a7426b5c38088&id=CCTV4&type=yy
-CCTV5,https://migu.188766.xyz/?migutoken=2b217a41a7561511ef87b91d361e1637&id=CCTV5&type=yy
-CCTV5+,https://migu.188766.xyz/?migutoken=e9892fc8ab0ec4666c5bab12deaf5279&id=CCTV5p&type=yy
-CCTV6,https://migu.188766.xyz/?migutoken=3092a042007212cb62447d73b313ce21&id=CCTV6&type=yy
-CCTV7,https://migu.188766.xyz/?migutoken=052c1014e17b61388e8c82e45f027fe5&id=CCTV7&type=yy
-CCTV8,https://migu.188766.xyz/?migutoken=ab944857fa77c4ec95a4b849057befc9&id=CCTV8&type=yy
-CCTV9,https://migu.188766.xyz/?migutoken=4b90ccc08e56e56989feca674455c14b&id=CCTV9&type=yy
-CCTV10,https://migu.188766.xyz/?migutoken=f7823f1b2e7485057c2f3a6be0f87270&id=CCTV10&type=yy
-CCTV11,https://migu.188766.xyz/?migutoken=e3f42ae4b534a67673ff1d30ad96eb8c&id=CCTV11&type=yy
-CCTV12,https://migu.188766.xyz/?migutoken=09cea8d72e58352cef742c1a74d5f98a&id=CCTV12&type=yy
-CCTV13,https://migu.188766.xyz/?migutoken=a1c1d0fae1fa571898cb28b999e4fb17&id=CCTV13&type=yy
-CCTV14,https://migu.188766.xyz/?migutoken=2d04e3f9c0662b6a12c49babf1389a39&id=CCTV14&type=yy
-CCTV15,https://migu.188766.xyz/?migutoken=9081e8eff1e04684500d2579671b7c11&id=CCTV15&type=yy
-CCTV16,https://migu.188766.xyz/?migutoken=0e2d764b967a0934bd17336a0b2ddc41&id=CCTV17&type=yy
-CCTV欧洲,https://migu.188766.xyz/?migutoken=350a470bf8f6144619b6c6d6daf09452&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy
-CCTV美洲,https://migu.188766.xyz/?migutoken=660aa8cfba55f2b4ecc99502d3194793&id=CCTV4%E7%BE%8E%E6%B4%B2&type=yy
 CCTV1,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
 CCTV2,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv2
 CCTV3,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv3
